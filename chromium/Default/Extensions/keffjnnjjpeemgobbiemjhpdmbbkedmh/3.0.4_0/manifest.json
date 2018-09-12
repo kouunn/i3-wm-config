@@ -1,0 +1,40 @@
+{
+   "background": {
+      "scripts": [ "chrome/pages/js/init.js", "lib/aes.js", "lib/mode-cfb-min.js", "bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "chrome/icons/icon19gray.png",
+      "default_popup": "popup.html",
+      "default_title": "Unblock Boundary isn't working properly!"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "chrome/content/tudou.js" ],
+      "matches": [ "http://www.tudou.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "css": [ "chrome/content/play.baidu.css" ],
+      "matches": [ "http://play.baidu.com/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "chrome/content/music.163.js" ],
+      "matches": [ "http://music.163.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "chrome/icons/icon128.png",
+      "16": "chrome/icons/icon16.png",
+      "48": "chrome/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzY5vtcPvtsuPJ83VBuo9Wt4pahCOjGKUewgtDDsNYu4YNccbg+2JvDWhsOObvsRAiLNB/xrC5sip6g135lr4CZMs6VKjZKXBtWY+Av6LvdHPw8ydSq2slR1qBqef7kj3KwNt/895TucMKIG7gTXWEXP9j7o1XXoyQ7pnMLjD60L00LOpmKGFYKoiWkADlblnDu5sQGxL/2clr3ZBt2S6grBu9YdakCC7MT4/a3kGl58/8xCfxi8N+6f3i3x2DGS/2YuV4LPsnt4TRSmMgDnK1RrrUuMuAPxRtEZWRZN7i2rHWm0xA/KiHffI0QPQckXwpfebPKpBzdtQKd3RkAA4kQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "25.0",
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "management", "proxy", "tabs", "http://*/*", "https://*/*", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "unlimitedStorage", "notifications", "browsingData" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.4"
+}

@@ -1,0 +1,116 @@
+{
+   "Add": {
+      "message": "Add"
+   },
+   "All_OFF": {
+      "message": "All OFF"
+   },
+   "All_ON": {
+      "message": "All ON"
+   },
+   "Arabic": {
+      "message": "Arabic"
+   },
+   "Baltic": {
+      "message": "Baltic"
+   },
+   "Celtic": {
+      "message": "Celtic"
+   },
+   "Central_European": {
+      "message": "Central European"
+   },
+   "Chinese_Simplified": {
+      "message": "Chinese Simplified"
+   },
+   "Chinese_Tranditional": {
+      "message": "Chinese Tranditional"
+   },
+   "Customize_Encoding_Menu": {
+      "message": "Customize Encoding Menu"
+   },
+   "Cyrillic": {
+      "message": "Cyrillic"
+   },
+   "Delete": {
+      "message": "Delete"
+   },
+   "Encoding": {
+      "message": "Encoding"
+   },
+   "Greek": {
+      "message": "Greek"
+   },
+   "Hebrew": {
+      "message": "Hebrew"
+   },
+   "Help_page": {
+      "message": "Help page"
+   },
+   "Japanese": {
+      "message": "Japanese"
+   },
+   "Korean": {
+      "message": "Korean"
+   },
+   "Language": {
+      "message": "Language"
+   },
+   "Nordic": {
+      "message": "Nordic"
+   },
+   "Pre_defined_Encoding": {
+      "message": "Pre-defined Encoding"
+   },
+   "Save": {
+      "message": "Save"
+   },
+   "South_European": {
+      "message": "South European"
+   },
+   "Thai": {
+      "message": "Thai"
+   },
+   "Turkish": {
+      "message": "Turkish"
+   },
+   "Unicode": {
+      "message": "Unicode"
+   },
+   "Use_page_default": {
+      "message": "Use page default"
+   },
+   "User_defined_Encoding": {
+      "message": "User-defined Encoding"
+   },
+   "Vietnamese": {
+      "message": "Vietnamese"
+   },
+   "Western": {
+      "message": "Western"
+   },
+   "_footer_msg": {
+      "message": "For more information, check our \u003Ca href='http://www.deep-watch.net/en/blog/bring-character-encoding-menu-back-to-chrome-with-extension' target='_blank'>help page\u003C/a>."
+   },
+   "_locale": {
+      "message": "en"
+   },
+   "_msg_add_menu": {
+      "message": "Add your own menu items."
+   },
+   "_msg_saved": {
+      "message": "Options saved."
+   },
+   "_title_off_on": {
+      "message": "OFF &hArr; ON"
+   },
+   "appDesc": {
+      "message": "Provide right-click menu to manually set character encoding for web pages."
+   },
+   "appName": {
+      "message": "Set Character Encoding"
+   },
+   "msgPage": {
+      "message": "help_en.html"
+   }
+}

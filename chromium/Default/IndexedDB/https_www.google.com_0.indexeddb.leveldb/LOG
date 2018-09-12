@@ -1,0 +1,19 @@
+2018/07/26-20:39:10.635 7817 Reusing MANIFEST /home/kou2n/.config/chromium/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/07/26-20:39:10.635 7817 Recovering log #96
+2018/07/26-20:39:10.642 7817 Reusing old log /home/kou2n/.config/chromium/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/000096.log 
+2018/07/26-20:39:10.892 7701 Level-0 table #99: started
+2018/07/26-20:39:10.912 7701 Level-0 table #99: 2815379 bytes OK
+2018/07/26-20:39:10.914 7701 Delete type=0 #96
+2018/07/26-20:39:10.915 7701 Compacting 4@0 + 3@1 files
+2018/07/26-20:39:10.943 7701 Generated table #100@0: 176 keys, 2751366 bytes
+2018/07/26-20:39:10.993 7701 Generated table #101@0: 116 keys, 2824462 bytes
+2018/07/26-20:39:11.010 7701 Generated table #102@0: 63 keys, 1335934 bytes
+2018/07/26-20:39:11.010 7701 Compacted 4@0 + 3@1 files => 6911762 bytes
+2018/07/26-20:39:11.012 7701 compacted to: files[ 0 3 1 0 0 0 0 ]
+2018/07/26-20:39:11.012 7701 Delete type=2 #95
+2018/07/26-20:39:11.012 7701 Delete type=2 #86
+2018/07/26-20:39:11.013 7701 Delete type=2 #85
+2018/07/26-20:39:11.013 7701 Delete type=2 #89
+2018/07/26-20:39:11.013 7701 Delete type=2 #99
+2018/07/26-20:39:11.014 7701 Delete type=2 #92
+2018/07/26-20:39:11.014 7701 Delete type=2 #87

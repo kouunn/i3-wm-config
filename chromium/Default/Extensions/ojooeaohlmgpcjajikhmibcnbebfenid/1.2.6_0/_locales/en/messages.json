@@ -1,0 +1,119 @@
+{
+   "analisor": {
+      "message": " Analyzer"
+   },
+   "appManage": {
+      "message": "tools manage"
+   },
+   "assistant": {
+      "message": " Assistant"
+   },
+   "cancel": {
+      "message": " cancel"
+   },
+   "clear": {
+      "message": "clear"
+   },
+   "clearpicconfirm": {
+      "message": "Do you really want to clear the image?"
+   },
+   "closed": {
+      "message": " close"
+   },
+   "colorPicker": {
+      "message": " color picker"
+   },
+   "currColor": {
+      "message": "Current Color"
+   },
+   "dorsyDesignePic": {
+      "message": "workdraft"
+   },
+   "drop": {
+      "message": " drop"
+   },
+   "element": {
+      "message": " element"
+   },
+   "fast": {
+      "message": "F"
+   },
+   "fix": {
+      "message": " fix"
+   },
+   "fixedTips": {
+      "message": "Composition fixed"
+   },
+   "height": {
+      "message": " height"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "helpMessage": {
+      "message": "\u003C/h4>\u003Ch4>Using Method\u003C/h4>\u003Cp>\u003Ca href='http://alloyteam.github.io/AlloyDesigner/' target='_blank'>Offical Site & Docs\u003C/a> \u003Cbr />Web page composition can be loaded through the rightmost button on the toolbar, and then drag the composition to a curtain position, click on the fix button to fix the composition. After the composition fixed, you can inspect the current HTML element using Chrome F12 tool and alter the style.\u003C/p>\u003Ch4>About\u003C/h4>\u003Cp>AlloyDesigner, from Tencent \u003Ca href='http://www.alloyteam.com' target='_blank'>AlloyTeam\u003C/a>, aims to imcrease the efficiency of development web pages.\u003C/p>\u003Ch4>Supported Browsers\u003C/h4>\u003Cp>IE7+、Chrome、Firefox and so on. Especially working better on Chrome.\u003C/p>\u003Ch4>Authors\u003C/h4>\u003Cp>DorsyWang(王斌) JetYu(于涛)\u003C/p>\u003Ch4>Report an issue\u003C/h4>\u003Cp>\u003Ca href='https://github.com/AlloyTeam/AlloyDesigner/issues' target='_blank'>GitHub Issue\u003C/a>\u003C/p>\u003Ch4>Bookmark\u003C/h4>\u003Cp>\u003Ca id='dorsyAddF' href=\"javascript:(function(){var w=window,d=w.document,b=d.body,s=d.createElement('script');s.src='http://localhost/dC/dorsyClip/combined/dorsyClip.js';b.appendChild(s);})();\" onclick='return;'>Drag to Bookmark\u003C/a>\u003C/p>\u003Ch4>Rate AlloyDesigner\u003C/h4>\u003Cp>\u003Ca href='https://chrome.google.com/webstore/detail/alloydesigner/ojooeaohlmgpcjajikhmibcnbebfenid/reviews?hl=zh-CN&authuser=1' target='_blank'>Rate\u003C/a>\u003C/p>"
+   },
+   "hotHelpMessage": {
+      "message": "\u003Ch4>Use hot key to get better development experience\u003C/h4>\u003Ctable cellspacing=0 border=0>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Arrow keys(before fixed)\u003C/span>\u003C/td>\u003Ctd>move composition\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Ctrl + Arraw keys(fixed)\u003C/span>\u003C/td>\u003Ctd>alter position of composition\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + F(ix)\u003C/span>\u003C/td>\u003Ctd> fix or unfix page composition\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + D \u003C/span>\u003C/td>\u003Ctd>message tool\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + Up/Down\u003C/span>\u003C/td>\u003Ctd>Alter body/composition opacity\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + 0\u003C/span>\u003C/td>\u003Ctd>opacity to 0\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + 1\u003C/span>\u003C/td>\u003Ctd>opacity to 1\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + C(ss)\u003C/span>\u003C/td>\u003Ctd>css Assistant\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + X\u003C/span>\u003C/td>\u003Ctd>Color Picker Model\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + M(in)\u003C/span>\u003C/td>\u003Ctd>Minify AlloyDesigner\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Shift + Esc\u003C/span>\u003C/td>\u003Ctd>Open/Close AlloyDesigner\u003C/td>\u003C/tr>\u003C/table>"
+   },
+   "hotKey": {
+      "message": "Hot Key"
+   },
+   "infoPanel": {
+      "message": " info panel"
+   },
+   "manageTools": {
+      "message": "Manage Tools"
+   },
+   "measure": {
+      "message": " message"
+   },
+   "minify": {
+      "message": " minify"
+   },
+   "model": {
+      "message": " model"
+   },
+   "opacity": {
+      "message": " opacity"
+   },
+   "open": {
+      "message": " open"
+   },
+   "opened": {
+      "message": " opened"
+   },
+   "pasted": {
+      "message": " Pasted"
+   },
+   "preview": {
+      "message": " preview"
+   },
+   "psEl": {
+      "message": " page composition"
+   },
+   "rise": {
+      "message": " rise"
+   },
+   "scale": {
+      "message": " scale"
+   },
+   "struction": {
+      "message": " struction"
+   },
+   "switcher": {
+      "message": " switcher"
+   },
+   "toolBox": {
+      "message": " Tool Box"
+   },
+   "unFixedTips": {
+      "message": "Composition unfixed"
+   },
+   "version": {
+      "message": "Version"
+   },
+   "width": {
+      "message": " width"
+   }
+}

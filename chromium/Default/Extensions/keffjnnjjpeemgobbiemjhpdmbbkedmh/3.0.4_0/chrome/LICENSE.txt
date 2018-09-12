@@ -1,0 +1,2 @@
+The libraries, including Bootstrap and jQuery, contained in this folder are under their own licenses.
+The popup page is based on Unblock Youku from uku.im.

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Popup Page for Unblock Boundary</title>
+    <link rel="stylesheet" type="text/css" href="chrome/pages/css/bootstrap-3.3.5.min.css" />
+    <link rel="stylesheet" type="text/css" href="chrome/pages/css/font-awesome-4.4.0.min.css">
+    <link rel="stylesheet" type="text/css" href="chrome/pages/css/popup.css" />
+    <script type="text/javascript" src="chrome/pages/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="chrome/pages/js/bootstrap-3.3.5.min.js"></script>
+    <script src="lib/easytimer.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="chrome/pages/js/init.js"></script>
+    <script type="text/javascript" src="chrome/pages/js/popup.js"></script>
+    <script type="text/javascript" src="chrome/pages/js/analytics.js"></script>
+</head>
+<body>
+    <div id="wrapper" class="container-fluid">
+        <div id="setting">
+            <div id="setting_description">
+                <table style="width: 100%;"><tbody><tr><td>
+                    <div class="onoffswitch" id="pause_btn">
+                        <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="pause_btn_onoff" checked>
+                        <label class="onoffswitch-label" for="pause_btn_onoff">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </td><td>
+                    <p id="confligExt">Working nomal.</p>
+                </td></tr><tr id="in_queue_tr"><td colspan="2"><span id="in_queue">基础版服务器忙碌，排队中，等待时间 </span><span id="timer"></span></td></tr></tbody></table>
+                
+                
+                <table class="table table-hover" id="setting_table">
+                    <tbody>
+                        <tr>
+                            <td><span class="glyphicon glyphicon-bell"></span><a id="mobileUseTip" href="" target="_blank">This extension can be used in mobile device. Click to see how it works.</a></td>
+                        </tr>
+                        <tr id="not_login">
+                            <td><a class="btn btn-primary active" href="chrome/pages/login/authenticate.html"><span class="premium"></span></a></td>
+                        </tr>
+                        <tr id="already_login">
+                            <td><span class="glyphicon glyphicon-user"></span><span id="username"></span><div><span id="is_member"></span><br/><div class="btn-group" role="group" aria-label="...">
+<button id="refresh_member" class="btn btn-default">refresh</button><a id="ext_pro" href="#" target="_blank" class="btn btn-primary">extend</a><button id="btn_exit" target="_blank" class="btn btn-default"></button></div></div></td>
+                        </tr>
+                        <tr id="c_server_addr">
+                            <td><span class="glyphicon glyphicon-wrench"></span>
+                            <div class="btn-group">
+                              <button type="button" class="btn btn-success m_server_type_basic" id="c_server_addr_btn"></button>
+                              <button type="button" class="btn btn-success dropdown-toggle"  id="c_server_addr_btn_down" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="caret"></span>
+                              </button>
+                              <ul class="dropdown-menu" id="c_server_addr_ul">
+                                <li><a href="#" data-attr='0' class="m_server_type_basic"></a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#" data-attr='1'><span class="m_server_type_pro"></span>1</a></li>
+                                <li><a href="#" data-attr='2'><span class="m_server_type_pro"></span>2</a></li>
+                                <li><a href="#" data-attr='3'><span class="m_server_type_pro"></span>3</a></li>
+                                <li><a href="#" data-attr='4'><span class="m_server_type_pro"></span>4</a></li>
+                              </ul>
+                            </div><p class="m_server_type_intro"></p><div class="show_expire_msg"><p class="text-warning ads_btn_replacer"></p><a href="#" target="_blank" id="ext_pro"></a></div></td>
+                        </tr>
+                        <tr id="ad_block_ctr"><td>
+                            <div class="header"> 
+                            <span class="glyphicon glyphicon-flash"></span><h4 class="head-title" id="block_ads_title">Block ads</h4>
+                            <div class="onoffswitch" id="ads_btn">
+                                <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
+                                <label class="onoffswitch-label" for="myonoffswitch">
+                                    <span class="onoffswitch-inner"></span>
+                                    <span class="onoffswitch-switch"></span>
+                                </label>
+                            </div>
+                          </div>
+                            <div id="ads_help_msg"><span id="ads_notice"></span><a href="#" target="_blank" id="feedback_btn"></a></div>
+                          <div class="show_expire_msg"><p class="text-warning ads_btn_replacer"></p><a href="#" target="_blank" id="ext_pro"></a></div></td>
+                        </tr>
+                          <tr><td>
+                          <div>
+                            <span class="glyphicon glyphicon-tint"></span><span id="tips"></span>
+                          </div></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="text_block" id="help_text"></div>
+            </div>
+            <div class="text_block" id="feedback"></div>
+            <div class="text_block" id="rating"></div>
+            <div class="text_block"><a href="#" target="_blank" id="user_agreement"></a></div>
+        </div>  <!-- setting -->
+        <div id="version" class="text-muted"><small></small></div>
+    </div>  <!-- wrapper -->
+</body>
+</html>
+

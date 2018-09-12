@@ -1,0 +1,141 @@
+/*
+ * Copyright (C) 2012 - 2014  Bo Zhu  http://zhuzhu.org
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+
+body {
+    width: 34em;
+    display: block;
+    position: relative;
+}
+
+div#wrapper {
+    margin: 5px;
+    padding: 5px;
+}
+
+/* social networks */
+div#social-networks {
+    margin: 15px auto;
+    font-size: 110%;
+}
+
+
+/* mode setting section */
+div#setting {
+    margin-top: 15px;
+}
+
+div#buttons {
+    margin: 15px auto;
+    clear: both;
+	display: inline-block;
+}
+
+div#setting_description tr:last-child {
+    border-bottom: 1px solid #DDDDDD !important;
+    border-bottom: 1px solid #DDDDDD !important;
+}
+
+div.text_block {
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* extra info and links */
+div#rating {
+    display: none;
+}
+
+
+div#version {
+    margin-top: 15px;
+    text-align: center;
+}
+#ad_block_ctr {
+    display: none;
+}
+
+.head-title{
+  position:absolute;
+  float: left;
+  margin: 0;
+  color: green;
+}
+.onoffswitch {
+    margin:auto;
+    position: relative; width: 60px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 20px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 20px; padding: 0; line-height: 20px;
+    font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "ON";
+    padding-left: 10px;
+    background-color: #5cb85c; color: #FFFFFF;
+}
+.onoffswitch-inner:after {
+    content: "OFF";
+    padding-right: 10px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 18px; margin: 1px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 36px;
+    border: 2px solid #999999; border-radius: 20px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px; 
+}
+.footer {
+    height: 15px;
+    color: #789;
+    margin: 5px;
+    padding-top: 5px;
+    border-top: solid 1px #eef;
+    white-space: nowrap;
+}
+.footer a {
+    cursor: pointer;
+    text-decoration: blink;
+    color: #4285f4;
+}
+.popup_copyright {
+    text-align: center;
+}
+#in_queue{display: none;}
+#contri_notice_a{font-size: 12px;color:black;}

@@ -1,0 +1,119 @@
+{
+   "analisor": {
+      "message": "分析器"
+   },
+   "appManage": {
+      "message": "工具管理"
+   },
+   "assistant": {
+      "message": "助手"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "clear": {
+      "message": "清除"
+   },
+   "clearpicconfirm": {
+      "message": "是否要清除视觉稿?"
+   },
+   "closed": {
+      "message": "已关闭"
+   },
+   "colorPicker": {
+      "message": "取色器"
+   },
+   "currColor": {
+      "message": "当前颜色"
+   },
+   "dorsyDesignePic": {
+      "message": "视觉稿"
+   },
+   "drop": {
+      "message": "下降"
+   },
+   "element": {
+      "message": "元素"
+   },
+   "fast": {
+      "message": "快"
+   },
+   "fix": {
+      "message": "固定"
+   },
+   "fixedTips": {
+      "message": "视觉稿已固定"
+   },
+   "height": {
+      "message": "高度"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "helpMessage": {
+      "message": "\u003C/h4>\u003Ch4>使用方法\u003C/h4>\u003Cp>\u003Ca href='http://alloyteam.github.io/AlloyDesigner/' target='_blank'>官网及参考教程\u003C/a> \u003Cbr />可以通过最右边的按钮加载视觉稿，然后使用鼠标移动视觉稿，点击固定按钮固定即可进行审查元素开发\u003C/p>\u003Ch4>关于\u003C/h4>\u003Cp>AlloyDesigner是来自Tencent \u003Ca href='http://www.alloyteam.com' target='_blank'>AlloyTeam\u003C/a>的前端开发工具，其只出现开发阶段的一定时期，可以在制作时期，也可以在开发测试期，旨在提高前端开发的效率，获得更加便捷的开发体验。\u003C/p>\u003Ch4>兼容性\u003C/h4>\u003Cp>兼容IE7+、Chrome、Firefox等主流浏览器，在Chrome下获得更好的开发体验\u003C/p>\u003Ch4>作者\u003C/h4>\u003Cp>DorsyWang(王斌) JetYu(于涛)\u003C/p>\u003Ch4>交流讨论\u003C/h4>\u003Cp>QQ群：291503258 \u003Ca target=\"_blank\" href=\"http://shang.qq.com/wpa/qunwpa?idkey=2fdd807e478b4caed12aaf11d723ea0c9ac93228cb392270923e4edb1ce37189\">\u003Cimg border=\"0\" src=\"http://pub.idqqimg.com/wpa/images/group.png\" alt=\"AlloyDesigner官方讨论群\" title=\"AlloyDesigner官方讨论群\">\u003C/a>\u003C/p>\u003Ch4>收藏夹助手\u003C/h4>\u003Cp>\u003Ca id='dorsyAddF' href=\"javascript:(function(){var w=window,d=w.document,b=d.body,s=d.createElement('script');s.src='http://localhost/dC/dorsyClip/combined/dorsyClip.js';b.appendChild(s);})();\" onclick='return;'>添加到收藏夹助手\u003C/a> 右键保存到收藏夹\u003C/p>"
+   },
+   "hotHelpMessage": {
+      "message": "\u003Ch4>使用快捷键能使您获得更好的开发体验\u003C/h4>\u003Ctable cellspacing=0 border=0>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>方向键(固定前)\u003C/span>\u003C/td>\u003Ctd>微移视觉稿\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Ctrl + 方向键(固定后)\u003C/span>\u003C/td>\u003Ctd>微移视觉稿\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + F(ix)\u003C/span>\u003C/td>\u003Ctd> 固定或取消固定视觉稿\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + D \u003C/span>\u003C/td>\u003Ctd>测量工具\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + 上/下键\u003C/span>\u003C/td>\u003Ctd>调整body/视觉稿透明度\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + 0\u003C/span>\u003C/td>\u003Ctd>使当前不透明度降为0\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + 1\u003C/span>\u003C/td>\u003Ctd>使用当前不透明度为1\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + C(ss)\u003C/span>\u003C/td>\u003Ctd>css助手\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + X\u003C/span>\u003C/td>\u003Ctd>拾色器模式\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Alt + M(in)\u003C/span>\u003C/td>\u003Ctd>最小化AlloyDesigner\u003C/td>\u003C/tr>\u003Ctr>\u003Ctd class='dorsyHotKeyCode'>\u003Cspan>Shift + Esc\u003C/span>\u003C/td>\u003Ctd>关闭/开启AlloyDesigner\u003C/td>\u003C/tr>\u003C/table>"
+   },
+   "hotKey": {
+      "message": "快捷键"
+   },
+   "infoPanel": {
+      "message": "信息栏"
+   },
+   "manageTools": {
+      "message": "管理工具"
+   },
+   "measure": {
+      "message": "测量"
+   },
+   "minify": {
+      "message": "最小化"
+   },
+   "model": {
+      "message": "模式"
+   },
+   "opacity": {
+      "message": "透明度"
+   },
+   "open": {
+      "message": "打开"
+   },
+   "opened": {
+      "message": "已开启"
+   },
+   "pasted": {
+      "message": "已复制到剪贴板"
+   },
+   "preview": {
+      "message": "预览"
+   },
+   "psEl": {
+      "message": "视觉稿"
+   },
+   "rise": {
+      "message": "上升"
+   },
+   "scale": {
+      "message": "缩放"
+   },
+   "struction": {
+      "message": "结构"
+   },
+   "switcher": {
+      "message": "开关"
+   },
+   "toolBox": {
+      "message": "工具盒子"
+   },
+   "unFixedTips": {
+      "message": "视觉稿已解除固定"
+   },
+   "version": {
+      "message": "版本"
+   },
+   "width": {
+      "message": "长度"
+   }
+}

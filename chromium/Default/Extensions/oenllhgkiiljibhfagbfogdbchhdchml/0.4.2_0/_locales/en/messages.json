@@ -1,0 +1,83 @@
+{
+   "Arabic": {
+      "message": "Arabic"
+   },
+   "Baltic": {
+      "message": "Baltic"
+   },
+   "Celtic": {
+      "message": "Celtic"
+   },
+   "CentralEuropean": {
+      "message": "Central European"
+   },
+   "Chinese": {
+      "message": "Chinese"
+   },
+   "Cyrillic": {
+      "message": "Cyrillic"
+   },
+   "Greek": {
+      "message": "Greek"
+   },
+   "Hebrew": {
+      "message": "Hebrew"
+   },
+   "Japanese": {
+      "message": "Japanese"
+   },
+   "Korean": {
+      "message": "Korean"
+   },
+   "Nordic": {
+      "message": "Nordic"
+   },
+   "Romanian": {
+      "message": "Romanian"
+   },
+   "SouthEuropean": {
+      "message": "South European"
+   },
+   "Thai": {
+      "message": "Thai"
+   },
+   "Turkish": {
+      "message": "Turkish"
+   },
+   "Vietnamese": {
+      "message": "Vietnamese"
+   },
+   "Western": {
+      "message": "Western"
+   },
+   "appDescription": {
+      "description": "Extension: Short Name",
+      "message": "Modify the default encoding for the website"
+   },
+   "appName": {
+      "description": "Extension: Name",
+      "message": "Charset"
+   },
+   "appShortName": {
+      "description": "Extension: Short Name",
+      "message": "Charset"
+   },
+   "btnReset": {
+      "description": "Reset default charset",
+      "message": "Reset"
+   },
+   "cannotLoadLocalFile": {
+      "message": "Charset extension cannot load file:// protocol files!\nPlease check the \"Allow access to file URLs\" option in Chrome menu > More tools > Extensions."
+   },
+   "default": {
+      "message": "Default"
+   },
+   "settingMenu": {
+      "description": "Show Menu or Not",
+      "message": "ContextMenu: "
+   },
+   "tipCurrent": {
+      "description": "The encoding used for the current page",
+      "message": "Current: "
+   }
+}

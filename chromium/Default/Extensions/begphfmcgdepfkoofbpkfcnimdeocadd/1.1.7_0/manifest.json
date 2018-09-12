@@ -1,0 +1,38 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon_19.png",
+         "38": "img/icon_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_name__"
+   },
+   "content_scripts": [ {
+      "css": [ "css/inject.css" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "js/ed_helper.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "img/icon_128.png",
+      "48": "img/icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiJcS06gnX3PAD7xJDmSiqXhMTUnxiMx9HmaE5fm0e2Z3O1WH/zfcQVgJmlMX+J0CfykPjQexU7YTu0Km8ioPPfKYOlA6oqSrWJ+9Eivz2g59q0pNX8yyU34/sYyIOvLPXkU88ZEk5FYWUq+IFRhn+zBC92ClB7fj8QPVEuz+CNQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "\u003Call_urls>", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.7",
+   "web_accessible_resources": [ "inc/jquery-1.7.1.min.js", "inc/jquery-special-scroll.js", "edropper2.js", "inject/anchor-cursor-default.css", "inject/anchor-cursor-crosshair.css", "inject/edropper2.css" ]
+}

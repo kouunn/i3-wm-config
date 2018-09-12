@@ -1,0 +1,20 @@
+{
+   "author": "acgotaku",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/logo128.png",
+      "16": "img/logo16.png",
+      "48": "img/logo48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlMqmkU6phpYEIJO453H9f8VyxOSyl6T9KuRSvmw2SS0oHjDmw8wGIABlYb5fdUVNYQWuQj69OmTQxqG1vIKn7iP/WPq4WS6hHNiaAJeYVCt6T5vG9ST2JrEY6PzVd3ImkwRKncDIwyrRQdafNHgEiBWG4NDHRETGbfdOVkwAhmDT38G3SJyEmuEwF9iLcnTmTyfvY2B1Zih+6W33H0x2I4friWvKmwqiYNkCHkKl2SNmUTTImFbUAHHKDTRErMaBTcazeDUADjVCAG+vL5n5VlKBmfym2l42ku63LjvJxEoXeRizrdkKwcqiD4SEkOGeDDo7AUgtKwyQWSKYohO5tQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "notifications", "*://music.163.com/", "activeTab", "contextMenus", "storage", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.2"
+}

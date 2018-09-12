@@ -1,0 +1,1916 @@
+{
+   "checksum": "7768214dfdffdc19147942c419c2aa13",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13078680341430073",
+            "id": "37",
+            "name": "Bookmarks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13001385741307928",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13181257438289621"
+            },
+            "name": "看雪安全论坛 - www.pediy.com",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "http://bbs.pediy.com/"
+         }, {
+            "children": [ {
+               "date_added": "13131389294060459",
+               "id": "243",
+               "meta_info": {
+                  "last_visited_desktop": "13181235666931437"
+               },
+               "name": "Using Vagrant for Rails Development - GoRails",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gorails.com/guides/using-vagrant-for-rails-development"
+            }, {
+               "date_added": "13131650418610767",
+               "id": "244",
+               "name": "个人独资企业营业执照_公司注册_工商注册查询-快法务 - 快法务",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.kuaifawu.com/product/individual.html"
+            }, {
+               "date_added": "13132310829848253",
+               "id": "245",
+               "name": "価格.comマガジン 生活家電",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://kakakumag.com/seikatsu-kaden/"
+            }, {
+               "date_added": "13132335343354522",
+               "id": "246",
+               "name": "通过使用 L2TP/IPsec VPN 协议连接到 VPN Gate",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://130.158.75.44/cn/howto_l2tp.aspx#mac"
+            }, {
+               "date_added": "13132388753205179",
+               "id": "247",
+               "name": "css3 transform属性制作6种隐藏的侧边导航菜单动画效果演示_jQuery之家-自由分享jQuery、html5、css3的插件库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.htmleaf.com/Demo/20141009107.html"
+            }, {
+               "date_added": "13132898996618518",
+               "id": "248",
+               "name": "白帽汇招聘安全工程师 - FreeBuf.COM | 关注黑客与极客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.freebuf.com/jobs/99849.html"
+            }, {
+               "date_added": "13143801389785865",
+               "id": "249",
+               "name": "Adobe CC 2017全系 一键破解含 PS+AI+ID+PR+AE+BR下载 - Mac OSX 软件游戏分享区 - 威锋论坛 - 威锋网",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bbs.feng.com/read-htm-tid-10902574.html"
+            }, {
+               "date_added": "13149607137854100",
+               "id": "250",
+               "name": "A list of base boxes for Vagrant - Vagrantbox.es",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vagrantbox.es/"
+            } ],
+            "date_added": "13181248577816951",
+            "date_modified": "13181248577816951",
+            "id": "39",
+            "name": "ruby",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13140257346140897",
+               "id": "221",
+               "name": "haiku4u - a lorem ipsum haiku generator",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/ramenhog/project/editor/ARwwBr/"
+            }, {
+               "date_added": "13140257935362342",
+               "id": "222",
+               "name": "Vague But Exciting II",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/davatron5000/project/editor/ZpqPKX/"
+            }, {
+               "date_added": "13140257966816310",
+               "id": "223",
+               "name": "Sorting Algorithms Flashcards",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/MaciejCaputa/project/editor/DYdPeA/"
+            }, {
+               "date_added": "13144347495160728",
+               "id": "224",
+               "name": "html+jquery模拟简单的树形展开 - uestc_lxp的专栏 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.csdn.net/uestc_lxp/article/details/51366315"
+            }, {
+               "date_added": "13144348347104433",
+               "id": "225",
+               "name": "Tree View — Vue.js",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://vuejs.org/v2/examples/tree-view.html"
+            }, {
+               "date_added": "13144348475527797",
+               "id": "226",
+               "name": "Example of binding Kendo UI TreeView to OData service",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://demos.telerik.com/kendo-ui/treeview/odata-binding"
+            }, {
+               "date_added": "13144349120328524",
+               "id": "227",
+               "name": "CodePen - Navigator",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/l-yc/full/KNXpPo/"
+            }, {
+               "date_added": "13144349162850992",
+               "id": "228",
+               "name": "CodePen - Magic Menu",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/carsonmobi/full/dYvmQM/"
+            }, {
+               "date_added": "13144349166536992",
+               "id": "229",
+               "name": "命名原則",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/floraya/pen/KgvGov"
+            }, {
+               "date_added": "13144349178458992",
+               "id": "230",
+               "name": "hontao",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/kimpa0107/pen/qZYPwx"
+            }, {
+               "date_added": "13144349237451449",
+               "id": "231",
+               "name": "UI CSS Treeview",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/AndersonMamede/pen/ojWPmW"
+            }, {
+               "date_added": "13144349465077274",
+               "id": "232",
+               "name": "jquery大气的图标菜单tab选项卡切换效果代码_素材中国17素材网",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.17sucai.com/pins/22725.html"
+            }, {
+               "date_added": "13144349854084529",
+               "id": "233",
+               "name": "jQuery Rain | Easy Tree Example",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jqueryrain.com/?shB5R5cF"
+            }, {
+               "date_added": "13144349922441090",
+               "id": "234",
+               "name": "Easy-Tree.js : jQuery Bootstrap Tree View Plugin",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jqueryrain.com/2016/10/easy-tree-js-jquery-bootstrap-tree-view-plugin/"
+            }, {
+               "date_added": "13152098916380961",
+               "id": "235",
+               "name": "Iconfont-阿里巴巴矢量图标库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.iconfont.cn/collections/index?spm=a313x.7781069.1998910419.da2e3581b&type=1&page=2"
+            }, {
+               "date_added": "13152099641381067",
+               "id": "236",
+               "name": "Iconfont-阿里巴巴矢量图标库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=4878"
+            }, {
+               "date_added": "13152128359099041",
+               "id": "237",
+               "name": "微信小程序开发(4) 企业展示 - 方倍工作室 - 博客园",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cnblogs.com/txw1958/p/wxapp-companyshow.html"
+            }, {
+               "date_added": "13152128541047863",
+               "id": "238",
+               "name": "【合集】30个微信小程序demo汇总 - 微信小程序 - 【9秒社团】-中国最大的移动开源技术社区",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.9miao.com/thread-113675-1-1.html"
+            }, {
+               "date_added": "13152128550496643",
+               "id": "239",
+               "name": "如何入门微信小程序开发，有哪些学习资料？ - 知乎",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.zhihu.com/question/50907897"
+            }, {
+               "date_added": "13152128598313581",
+               "id": "240",
+               "name": "微信小程序调用【统一下单】、【支付】、【支付回调】api并处理请求 ...-教程-微信小程序开发联盟-微信小程序-微信小程序开发社区-小程序开发论坛-微信小程序联盟",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.wxapp-union.com/portal.php?mod=view&aid=2599"
+            }, {
+               "date_added": "13152189448301430",
+               "id": "241",
+               "name": "mac mini 苹果机箱改装 适用华硕H81T IO-淘宝网",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://item.taobao.com/item.htm?spm=a230r.1.14.88.2079659fclKjYn&id=17654423549&ns=1&abbucket=10#detail"
+            }, {
+               "date_added": "13152624995217927",
+               "id": "242",
+               "name": "CodePen - freeCodeCamp Challenge #2 (Portfolio)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codepen.io/noyb_/full/gxxGKR/"
+            } ],
+            "date_added": "13181248577817118",
+            "date_modified": "13181248577817119",
+            "id": "40",
+            "name": "模板",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13175089518809117",
+                  "id": "204",
+                  "meta_info": {
+                     "last_visited_desktop": "13175089518809892"
+                  },
+                  "name": "Arch 安装 KDE5 or GNOME or Deepin 桌面 - ylck小窝",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://ylck.me/archives/177/"
+               }, {
+                  "date_added": "13176856431007465",
+                  "id": "205",
+                  "meta_info": {
+                     "last_visited_desktop": "13177004286075336"
+                  },
+                  "name": "安装 Arch Linux 记录——配置 - 简书",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.jianshu.com/p/2c45c5b4c1ab"
+               }, {
+                  "date_added": "13176858203959964",
+                  "id": "206",
+                  "meta_info": {
+                     "last_visited_desktop": "13176858359253604"
+                  },
+                  "name": "配置和美化Arch Linux - 简书",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.jianshu.com/p/fe2165cc6af8"
+               }, {
+                  "date_added": "13176859012308516",
+                  "id": "207",
+                  "meta_info": {
+                     "last_visited_desktop": "13177004289899932"
+                  },
+                  "name": "講義　音声言語処理　レポート用ページ - Norihide Kitaoka",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://sites.google.com/site/norihidekitaokashome/lecture_slp"
+               }, {
+                  "date_added": "13177004942260831",
+                  "id": "208",
+                  "meta_info": {
+                     "last_visited_desktop": "13177004942261444"
+                  },
+                  "name": "arch beep - Google 搜索",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.google.com/search?source=hp&ei=bRJYW53dOdbM-QaBwazIBA&q=arch+beep&oq=arch+beep&gs_l=psy-ab.3..0i7i30k1l10.421.4126.0.4465.16.15.0.0.0.0.228.1372.13j0j1.14.0....0...1.1j4.64.psy-ab..2.14.1371.0..0j35i39k1j0i67k1j0i10k1j0i10i67k1j0i10i203k1j0i203k1j0i12k1j0i7i10i30k1.0.H6GkaTVlE8U"
+               }, {
+                  "date_added": "13177005000515364",
+                  "id": "209",
+                  "meta_info": {
+                     "last_visited_desktop": "13177005000515761"
+                  },
+                  "name": "arch 语言 - Google 搜索",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.google.co.jp/search?ei=6RFYW_DsEoSa0gSEk7JY&q=arch+%E8%AF%AD%E8%A8%80&oq=arch+%E8%AF%AD%E8%A8%80&gs_l=psy-ab.3..0i30k1j0i8i30k1.1580.5235.0.5381.14.14.0.0.0.0.108.1164.13j1.14.0....0...1.1j4.64.psy-ab..0.13.1073...0j33i160k1j35i39k1j0i12i5i30k1j0i203k1j0i12k1j0i67k1j0i7i30k1j0i12i5i10i30i19k1.0.NPa4AXWDxgM"
+               }, {
+                  "date_added": "13177005193723122",
+                  "id": "210",
+                  "meta_info": {
+                     "last_visited_desktop": "13177005193723359"
+                  },
+                  "name": "AUR (en) - ttf-wps-fonts",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://aur.archlinux.org/packages/ttf-wps-fonts/"
+               }, {
+                  "date_added": "13177108385166235",
+                  "id": "211",
+                  "meta_info": {
+                     "last_visited_desktop": "13180217807822405"
+                  },
+                  "name": "robbyrussell/oh-my-zsh: A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up you",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/robbyrussell/oh-my-zsh"
+               }, {
+                  "date_added": "13177113516276369",
+                  "id": "212",
+                  "meta_info": {
+                     "last_visited": "13180164565107345",
+                     "last_visited_desktop": "13177697577507074"
+                  },
+                  "name": "在学生・保護者の皆さまへ | 国立大学法人 徳島大学",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.tokushima-u.ac.jp/visitor/students.html"
+               }, {
+                  "date_added": "13177445123195328",
+                  "id": "213",
+                  "meta_info": {
+                     "last_visited_desktop": "13177788537081733"
+                  },
+                  "name": "1",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=227695"
+               }, {
+                  "date_added": "13177446358174255",
+                  "id": "214",
+                  "meta_info": {
+                     "last_visited_desktop": "13177453442022872"
+                  },
+                  "name": "Anaconda使用总结 - 简书",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.jianshu.com/p/2f3be7781451"
+               }, {
+                  "date_added": "13177620412875768",
+                  "id": "215",
+                  "meta_info": {
+                     "last_visited_desktop": "13177620455438931"
+                  },
+                  "name": "How to paste text copied from urxvt to a GUI application in Ubuntu using Ctrl+V - Quora",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.quora.com/How-do-I-paste-text-copied-from-urxvt-to-a-GUI-application-in-Ubuntu-using-Ctrl+V"
+               }, {
+                  "date_added": "13177635548984792",
+                  "id": "216",
+                  "meta_info": {
+                     "last_visited_desktop": "13177635548985536"
+                  },
+                  "name": "“词”向量应用的一些思考 - CSDN博客",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/ahmanz/article/details/51260552"
+               }, {
+                  "date_added": "13177697436317769",
+                  "id": "217",
+                  "meta_info": {
+                     "last_visited": "13177754323041216",
+                     "last_visited_desktop": "13177811909648998"
+                  },
+                  "name": "faneshion/MatchZoo: MatchZoo is a toolkit for text matching. It was developed to facilitate the designing, comparing, and sharing of deep text matching models.",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/faneshion/MatchZoo"
+               }, {
+                  "date_added": "13177702808019495",
+                  "id": "218",
+                  "meta_info": {
+                     "last_visited_desktop": "13180648494276380"
+                  },
+                  "name": "Index of /home/kou2n/Downloads/",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "file:///home/kou2n/Downloads/"
+               }, {
+                  "date_added": "13177789560931346",
+                  "id": "219",
+                  "meta_info": {
+                     "last_visited_desktop": "13177816298967858"
+                  },
+                  "name": "MatchZoo/data/toy_example at master · faneshion/MatchZoo",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/faneshion/MatchZoo/tree/master/data/toy_example"
+               }, {
+                  "date_added": "13180629554263805",
+                  "id": "220",
+                  "meta_info": {
+                     "last_visited_desktop": "13180629554264013"
+                  },
+                  "name": "腾讯微云",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.weiyun.com/disk/folder/c2b5e8062220eeea4a068572a9a6e894"
+               } ],
+               "date_added": "13181248577840356",
+               "date_modified": "13181248577840356",
+               "id": "148",
+               "name": "新建文件夹",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13142756067465668",
+               "id": "149",
+               "name": "名古屋大学 大学院 情報科学研究科",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.is.nagoya-u.ac.jp/"
+            }, {
+               "date_added": "13143477221507751",
+               "id": "150",
+               "name": "大学院入試 | 国立大学法人 徳島大学",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tokushima-u.ac.jp/e/admission/graduate_exam/"
+            }, {
+               "date_added": "13143479660885587",
+               "id": "151",
+               "name": "徳島大学 理工学部 任研究室",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://a1-www.is.tokushima-u.ac.jp/"
+            }, {
+               "date_added": "13143609086532545",
+               "id": "152",
+               "name": "オブジェクト指向プログラミング:",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www-p.st.nanzan-u.ac.jp/classes/2017/77355/"
+            }, {
+               "date_added": "13143731836969256",
+               "id": "153",
+               "name": "不确定性人工智能_百度百科",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://baike.baidu.com/item/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/12204230?fr=aladdin"
+            }, {
+               "date_added": "13143731902286728",
+               "id": "154",
+               "name": "a1-www.is.tokushima-u.ac.jp/member/ren/ren_j/",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://a1-www.is.tokushima-u.ac.jp/member/ren/ren_j/"
+            }, {
+               "date_added": "13144146429941212",
+               "id": "155",
+               "name": "周易八卦由来-八卦与六十四卦区别-问道网",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.askingdao.com/wenzhang/detail_id_1223.html"
+            }, {
+               "date_added": "13144179818744246",
+               "id": "156",
+               "name": "中国科学院研究生课程类专题资料免费下载-学习资料库，免费学习资料下载",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.xuexi111.com/s/zkyshipin/"
+            }, {
+               "date_added": "13144182000474485",
+               "id": "157",
+               "name": "数値解析試験の参照物",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.st.nanzan-u.ac.jp/info/sugiurah/NumericalAnalysis/files/Documents/References.pdf"
+            }, {
+               "date_added": "13144182254275337",
+               "id": "158",
+               "name": "授業資料（南山理工学部杉浦）",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.st.nanzan-u.ac.jp/info/sugiurah/"
+            }, {
+               "date_added": "13144182721850734",
+               "id": "159",
+               "name": "dblp: Fuji Ren",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dblp.uni-trier.de/pers/hd/r/Ren:Fuji"
+            }, {
+               "date_added": "13144227195526100",
+               "id": "160",
+               "name": "NFC蓝牙读写器DK308-W_德科物联技术有限公司",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://derkiot.com/a/chanpinzhanshi/NFClanyaduxieqiDK308_W/2017/0617/32.html"
+            }, {
+               "date_added": "13144789786312718",
+               "id": "161",
+               "name": "社会科学文献出版社_哲学社会科学学术出版平台",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ssap.com.cn/"
+            }, {
+               "date_added": "13144792462525960",
+               "id": "162",
+               "name": "ZCMS 1.1 - Multiple Vulnerabilities",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.exploit-db.com/exploits/37272/"
+            }, {
+               "date_added": "13144823913660291",
+               "id": "163",
+               "name": "演讲实录丨任福继：智能机器人的现状与发展—From Bots to Robot School",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sanwen.net/a/plgxypo.html"
+            }, {
+               "date_added": "13144824594772937",
+               "id": "164",
+               "name": "前沿 | 认知科学对人工科学的引领趋势",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sanwen8.cn/p/186u2sM.html"
+            }, {
+               "date_added": "13145335651400507",
+               "id": "165",
+               "name": "徳島大学キャンパス教育支援システム",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://eweb91.stud.tokushima-u.ac.jp/Portal/Public/Syllabus/SearchMain.aspx"
+            }, {
+               "date_added": "13145810561145209",
+               "id": "166",
+               "name": "局部均匀模式描述和双加权融合的人脸识别",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cjig.cn/html/jig/2016/5/20160504.htm"
+            }, {
+               "date_added": "13149165328931161",
+               "id": "167",
+               "name": "徳島大学留学生ポータル | 国立大学法人 徳島大学",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tokushima-u.ac.jp/isc/admission/"
+            }, {
+               "date_added": "13149617689802580",
+               "id": "168",
+               "name": "【Webアプリケーションエンジニア】自社サービス開発。リモート(在宅)勤務OK。フレックスタイム制で残業なし！ 株式会社Misoca-engage",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://en-gage.net/misoca/work_6468"
+            }, {
+               "date_added": "13164555389289836",
+               "id": "169",
+               "name": "jekyll | Transform your plain text into static websites and blogs",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://jekyllrb.com/"
+            }, {
+               "date_added": "13164558397936879",
+               "id": "170",
+               "name": "ArchLinux安装图文教程 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.csdn.net/r8l8q8/article/details/76516523"
+            }, {
+               "date_added": "13164717892391426",
+               "id": "171",
+               "name": "CLEF 2018 | Conference and Labs of the Evaluation Forum",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://clef2018.clef-initiative.eu/index.php?page=Pages/labs_info.html#earlyriskpredictionontheinternet"
+            }, {
+               "date_added": "13164718593480347",
+               "id": "172",
+               "name": "Text REtrieval Conference (TREC) Call to TREC 2018",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://trec.nist.gov/pubs/call2018.html"
+            }, {
+               "date_added": "13164818388629736",
+               "id": "173",
+               "name": "2017年8.2高分获奖剧情《请以你的名字呼唤我》BD中英双字幕迅雷下载_电影天堂",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.dytt8.net/html/gndy/dyzz/20180306/56450.html"
+            }, {
+               "date_added": "13165083083147128",
+               "id": "174",
+               "name": "Adapta 主题现在可用于 KDE Plasma 桌面 | 我是菜鸟",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://imcn.me/html/y2017/31335.html"
+            }, {
+               "date_added": "13165470169170461",
+               "id": "175",
+               "name": "Tinkerboard – armbian",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.armbian.com/tinkerboard/"
+            }, {
+               "date_added": "13165470271379274",
+               "id": "176",
+               "name": "Downloads",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.elar-systems.com/website/index.php/entertainment/member-area/category/2-downloads"
+            }, {
+               "date_added": "13165639460520666",
+               "id": "177",
+               "name": "如何优雅地食用树莓派 zero w - 少数派",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sspai.com/post/40086"
+            }, {
+               "date_added": "13165724280745190",
+               "id": "178",
+               "name": "Raspberry pi 3 B+ vs 3 B – Easytester",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://easytester.cn/2018/03/16/raspberry-pi-3-b-vs-3-b/"
+            }, {
+               "date_added": "13165732322064098",
+               "id": "179",
+               "name": "Shipping Policy – PINE64",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.pine64.org/?page_id=426"
+            }, {
+               "date_added": "13168485524494162",
+               "id": "180",
+               "name": "Category: 人工智能 - 全本 - 免费下载 - 计算机书籍控",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bestcbooks.com/categories/ren-gong-zhi-neng/"
+            }, {
+               "date_added": "13169720457626575",
+               "id": "181",
+               "name": "搞金融的同学三小时快速入门python【从零入门量化交易系列】 - 简书",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/a00537892db1?utm_campaign=maleskine&utm_content=note&utm_medium=pc_all_hots&utm_source=recommendation"
+            }, {
+               "date_added": "13171030038379326",
+               "id": "182",
+               "name": "ShiroUmi",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://47.93.40.149/"
+            }, {
+               "date_added": "13171092189782435",
+               "id": "183",
+               "name": "OpenCV + Python + NumPy で画像の画素を操作する - 銀の弾丸",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://takamints.hatenablog.jp/entry/2015/03/04/223059"
+            }, {
+               "date_added": "13171093650646849",
+               "id": "184",
+               "name": "给深度学习入门者的Python快速教程 - 番外篇之Python-OpenCV",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/24425116"
+            }, {
+               "date_added": "13173165474497137",
+               "id": "185",
+               "name": "文本审查会议（TREC）2017会议记录",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://trec.nist.gov/pubs/trec26/trec2017.html"
+            }, {
+               "date_added": "13173167995063626",
+               "id": "186",
+               "name": "Reinforcement Learning：An Introduction 读书笔记- Chapter 1 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.csdn.net/PeytonPu/article/details/78450681"
+            }, {
+               "date_added": "13173423088681637",
+               "id": "187",
+               "name": "Q Leaning - 有趣的机器学习 | 莫烦Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/4-03-q-learning/"
+            }, {
+               "date_added": "13173772941364428",
+               "id": "188",
+               "name": "Загрузка статьи",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sci-hub.tw/10.1109/NLPKE.2008.4906787"
+            }, {
+               "date_added": "13173781427451546",
+               "id": "189",
+               "name": "Sci-Hub: removing barriers in the way of science",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sci-hub.tw/"
+            }, {
+               "date_added": "13173801834035253",
+               "id": "190",
+               "name": "[NLP] 秒懂词向量Word2vec的本质",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/26306795"
+            }, {
+               "date_added": "13173967578141790",
+               "id": "191",
+               "name": "The New York Times API - Live news headlines and articles from The New York Times",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://newsapi.org/s/the-new-york-times-api"
+            }, {
+               "date_added": "13173968452171675",
+               "id": "192",
+               "name": "Parameter files for 2015 and 2016 datasets - Google 网上论坛",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://groups.google.com/forum/#!topic/trec-dd/A0ausu2mxZQ"
+            }, {
+               "date_added": "13173968456563907",
+               "id": "193",
+               "name": "(56) trec-dd - Google 网上论坛",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://groups.google.com/forum/#!forum/trec-dd"
+            }, {
+               "date_added": "13173968596795551",
+               "id": "194",
+               "name": "CLEF 2018 | Conference and Labs of the Evaluation Forum",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://clef2018.clef-initiative.eu/index.php?page=Pages/labs_info.html"
+            }, {
+               "date_added": "13173970326072578",
+               "id": "195",
+               "name": "基于检索的聊天机器人的实现 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.csdn.net/irving_zhang/article/details/78788929"
+            }, {
+               "date_added": "13173970858414890",
+               "id": "196",
+               "name": "【机器学习】Cross-Validation（交叉验证）详解",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/24825503"
+            }, {
+               "date_added": "13174031374935150",
+               "id": "197",
+               "name": "Ubuntu 安装 Mongodb - 简书",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/5598f1dcbb98"
+            }, {
+               "date_added": "13174665921809250",
+               "id": "198",
+               "name": "GitXiv: Collaborative Open Computer Science",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.gitxiv.com/"
+            }, {
+               "date_added": "13174665932497077",
+               "id": "199",
+               "meta_info": {
+                  "last_visited_desktop": "13175779967925459"
+               },
+               "name": "Papers with Code : the latest in machine learning",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://paperswithcode.com/search?q=nlp"
+            }, {
+               "date_added": "13174668284156671",
+               "id": "200",
+               "name": "ubuntu系统重新分区、根目录扩容 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.csdn.net/code_segment/article/details/79237500"
+            }, {
+               "date_added": "13178308414478103",
+               "id": "201",
+               "meta_info": {
+                  "last_visited_desktop": "13178308414478639"
+               },
+               "name": "hello manjaro - 我在这里",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://miiiku.xyz/article/59228ccf5cc6312e2dc50b97"
+            }, {
+               "date_added": "13178321493308554",
+               "id": "202",
+               "meta_info": {
+                  "last_visited_desktop": "13178321493309250"
+               },
+               "name": "知识图谱技术原理介绍 - 机器学习 - 算法组",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://suanfazu.com/t/topic/13105"
+            }, {
+               "date_added": "13180648305957990",
+               "id": "203",
+               "meta_info": {
+                  "last_visited_desktop": "13180649903958804"
+               },
+               "name": "Search Engines: Information Retrieval in Practice",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.search-engines-book.com/collections/"
+            } ],
+            "date_added": "13181248577818329",
+            "date_modified": "13181248577818329",
+            "id": "41",
+            "name": "大学院",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13143783985325019",
+               "id": "145",
+               "name": "招聘流程|校园招聘|阿里巴巴集团2017校园招聘",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://campus.alibaba.com/trainProcess.htm"
+            }, {
+               "date_added": "13143785054059279",
+               "id": "146",
+               "name": "招聘岗位|校园招聘|阿里巴巴集团2017校园招聘",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://campus.alibaba.com/position.htm?refno=11812"
+            }, {
+               "date_added": "13143785720239063",
+               "id": "147",
+               "name": "华为招聘",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobList.html?jobFamClsCode=JFC1&type=1"
+            } ],
+            "date_added": "13181248577819640",
+            "date_modified": "13181248577819640",
+            "id": "42",
+            "name": "校园招聘",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13151398783164944",
+               "id": "134",
+               "name": "[原创]关于徒手脱壳的几种方法-『加壳脱壳』-看雪安全论坛",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://bbs.pediy.com/thread-218605.htm"
+            }, {
+               "date_added": "13151398828635367",
+               "id": "135",
+               "name": "[原创]自创手脱ASProtect v1.23 RC1 *（内附视频）-『加壳脱壳』-看雪安全论坛",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://bbs.pediy.com/thread-207728.htm"
+            }, {
+               "date_added": "13151414460927705",
+               "id": "136",
+               "name": "开始使用 - NexT 使用文档",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://theme-next.simpleyyt.com/getting-started.html"
+            }, {
+               "date_added": "13151421455442405",
+               "id": "137",
+               "name": "主题配置 - NexT 使用文档",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://theme-next.simpleyyt.com/theme-settings.html"
+            }, {
+               "date_added": "13151421466385847",
+               "id": "138",
+               "name": "进阶设定 - NexT 使用文档",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://theme-next.simpleyyt.com/advanced-settings.html"
+            }, {
+               "date_added": "13151421472851769",
+               "id": "139",
+               "name": "Jekflix",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://jekyllthemes.org/themes/jekflix/"
+            }, {
+               "date_added": "13151956092639474",
+               "id": "140",
+               "name": "【技术分享】iOS & Mac OS X逆向工程学习资源汇总 - 安全客 - 有思想的安全新媒体",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bobao.360.cn/learning/detail/3247.html"
+            }, {
+               "date_added": "13151956292018641",
+               "id": "141",
+               "name": "时间戳(Unix timestamp)转换工具 - 在线工具",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tool.lu/timestamp"
+            }, {
+               "date_added": "13152007420596438",
+               "id": "142",
+               "name": "AMD OS X - Forum Rules",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.amd-osx.com/viewtopic.php?f=4&t=4&p=4#p4"
+            }, {
+               "date_added": "13152014474516673",
+               "id": "143",
+               "name": "不一样的ITX办公机，20周年纪念版伪小清新“板儿砖” - 电脑硬件 - Chiphell - 分享与交流用户体验",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.chiphell.com/thread-1082735-1-1.html"
+            }, {
+               "date_added": "13160939812029275",
+               "id": "144",
+               "name": "Free JetBrains Products License Server -- XIDEA.ONLINE",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://xidea.online/"
+            } ],
+            "date_added": "13181248577820109",
+            "date_modified": "13181248577820109",
+            "id": "43",
+            "name": "逆向",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13152359599721217",
+               "id": "110",
+               "name": "供热缴费系统的设计与实现_百度文库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/241fc9af336c1eb91b375d5c.html"
+            }, {
+               "date_added": "13152360181259192",
+               "id": "111",
+               "name": "热力经营收费系统_系统说明书_百度文库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/8a08a8e74431b90d6d85c70d.html"
+            }, {
+               "date_added": "13152360292283705",
+               "id": "112",
+               "name": "Rails数据库 - 简书",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jianshu.com/p/ebe4c2bb3e50"
+            }, {
+               "date_added": "13152471270814728",
+               "id": "113",
+               "name": "供暖企业收费管理系统设计与实现 - 豆丁网",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.docin.com/p-1386190067.html?docfrom=rrela"
+            }, {
+               "date_added": "13152473938996865",
+               "id": "114",
+               "name": "Ruby On Rails 常用的精品Gem汇总 - Ray Liang - 博客园",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cnblogs.com/Ray-liang/p/5010229.html"
+            }, {
+               "date_added": "13152605747990227",
+               "id": "115",
+               "name": "Ruby on Rails 实战圣经 |",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ihower.tw/rails/index-cn.html"
+            }, {
+               "date_added": "13152620300889801",
+               "id": "116",
+               "name": "The Ruby Toolbox - Know your options!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.ruby-toolbox.com/"
+            }, {
+               "date_added": "13153072999003147",
+               "id": "117",
+               "name": "众齐供热收费管理系统_图文_百度文库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/592eb457777f5acfa1c7aa00b52acfc789eb9f03.html###"
+            }, {
+               "date_added": "13153073224204161",
+               "id": "118",
+               "name": "腾信供热收费管理系统介绍新_图文_百度文库",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/e488a60e8bd63186bdebbc1c.html"
+            }, {
+               "date_added": "13153158673977017",
+               "id": "119",
+               "name": "20 Best Bootstrap Admin Templates For Web Apps 2017 - Colorlib",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://colorlib.com/wp/bootstrap-admin-templates/"
+            }, {
+               "date_added": "13153158747485959",
+               "id": "120",
+               "name": "Top 20 Material Design HTML5/CSS3 Admin Templates 2017 - Colorlib",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://colorlib.com/wp/html-admin-templates/"
+            }, {
+               "date_added": "13153158788099496",
+               "id": "121",
+               "name": "Top 22 Free Responsive HTML5 Admin & Dashboard Templates 2017 - Colorlib",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://colorlib.com/wp/free-html5-admin-dashboard-templates/"
+            }, {
+               "date_added": "13153168999762640",
+               "id": "122",
+               "name": "Light Bootstrap Dashboard PRO by Creative Tim",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html"
+            }, {
+               "date_added": "13153308505760974",
+               "id": "123",
+               "name": "[ 2.0 ] 8. 撰寫 db:seed 與 自動化重整資料庫程式 « Rails 101 S",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://rails101s.logdown.com/posts/247890-20-8-write-automation-reforming-of-dbseed-a-database-program"
+            }, {
+               "date_added": "13153403355203546",
+               "id": "124",
+               "name": "Ubuntu14.04下JDK8+Tomcat7 环境配置 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.csdn.net/zccz14/article/details/51440808"
+            }, {
+               "date_added": "13153477528580031",
+               "id": "125",
+               "name": "login",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.17sucai.com/preview/668095/2017-07-19/perfect/index.html"
+            }, {
+               "date_added": "13153478240348261",
+               "id": "126",
+               "name": "html5实用的博客网站统计分析管理后台模板",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.17sucai.com/pins/demoshow/25243"
+            }, {
+               "date_added": "13153480842915624",
+               "id": "127",
+               "name": "汽车cms洗车店收银管理系统界面模板",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.17sucai.com/pins/25193.html"
+            }, {
+               "date_added": "13153678544842827",
+               "id": "128",
+               "name": "AMD Guide For Hackintosh | dmos Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dm0s.wordpress.com/2016/02/04/amd-guide-for-hackintosh/"
+            }, {
+               "date_added": "13153678719277515",
+               "id": "129",
+               "name": "Patched Kernels - OSx86",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wiki.osx86project.org/wiki/index.php/Patched_Kernels"
+            }, {
+               "date_added": "13153850083178932",
+               "id": "130",
+               "name": "Rails4×Bootstrap3でNew/Edit画面をモーダルダイアログ化する - Qiita",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://qiita.com/tabbyz/items/1ae01be713e5c35adcd5"
+            }, {
+               "date_added": "13153994114611695",
+               "id": "131",
+               "name": "https://www.baidu.com/link?url=-gWdMl0wrIxMG4wyedCKxATxqqRrHflQbocgM5vSNBe7h2aIoCAlzOVO2ICw2P-SBK0p1pUCbuFozgIO2ibliq&wd=&eqid=ff8bf1e400009da30000000659f97472",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.baidu.com/link?url=-gWdMl0wrIxMG4wyedCKxATxqqRrHflQbocgM5vSNBe7h2aIoCAlzOVO2ICw2P-SBK0p1pUCbuFozgIO2ibliq&wd=&eqid=ff8bf1e400009da30000000659f97472"
+            }, {
+               "date_added": "13154272889164409",
+               "id": "132",
+               "name": "Paper Dashboard PRO by Creative Tim",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://demos.creative-tim.com/paper-dashboard-pro/examples/dashboard/overview.html"
+            }, {
+               "date_added": "13155573984447305",
+               "id": "133",
+               "meta_info": {
+                  "last_visited": "13175189322143555"
+               },
+               "name": "【Combination Airframe - K-MODE -】コンビネーション エアフレーム - Kモード - LMF-17S-104 94 商品詳細 | JINS - 眼鏡（メガネ・めがね）",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.jins.com/jp/Products/Detail/number/LMF-17S-104/94/?from_search=1"
+            } ],
+            "date_added": "13181248577820562",
+            "date_modified": "13181248577820562",
+            "id": "44",
+            "name": "热力公司",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13155620167719138",
+               "id": "62",
+               "name": "自然言語処理（NLP）ってなんだろう？ - Qiita",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://qiita.com/MahoTakara/items/b3d719ed1a3665730826"
+            }, {
+               "date_added": "13155619192577020",
+               "id": "63",
+               "name": "自然言語処理",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.welearn.jp/nlp/"
+            }, {
+               "date_added": "13155623677549223",
+               "id": "64",
+               "name": "構文解析の方法",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.sist.ac.jp/~kanakubo/research/natural_language_processing/syntactic_analysis.html"
+            }, {
+               "date_added": "13155878876375737",
+               "id": "65",
+               "name": "nlp1-07.key",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jaist.ac.jp/~kshirai/lec/i223/07.pdf#search=%27%E6%9C%80%E9%95%B7%E4%B8%80%E8%87%B4%E6%B3%95%27"
+            }, {
+               "date_added": "13155918693018861",
+               "id": "66",
+               "name": "nlp1-09.key",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jaist.ac.jp/~kshirai/lec/i223/09.pdf#search=%27%E5%88%86%E9%A1%9E%E3%82%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B+%E9%A1%9E%E4%BC%BC%E5%BA%A6%27"
+            }, {
+               "date_added": "13155919035149198",
+               "id": "67",
+               "name": "分類シソーラスにおける　類似度",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.jstage.jst.go.jp/article/tjsai/20/5/20_5_326/_pdf"
+            }, {
+               "date_added": "13155919900738607",
+               "id": "68",
+               "name": "WineBottler | Downloads of WineBottler and Wine.app",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://winebottler.kronenberg.org/downloads"
+            }, {
+               "date_added": "13155927857133214",
+               "id": "69",
+               "name": "思古 - 发思古之幽情",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://sigu.me/?sort=8"
+            }, {
+               "date_added": "13156085334706387",
+               "id": "70",
+               "name": "写像：単射、全射、全単射 - 大人になってからの再学習",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://zellij.hatenablog.com/entry/20130206/p1"
+            }, {
+               "date_added": "13156088071525723",
+               "id": "71",
+               "name": "bijection.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.lab.twcu.ac.jp/nick/lecture/2013/bijection.pdf#search=%27%E6%83%85%E5%A0%B1%E6%95%B0%E5%AD%A6+%E9%80%86%E5%86%99%E5%83%8F%27"
+            }, {
+               "date_added": "13156092282254984",
+               "id": "72",
+               "name": "kika2text2014.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tgt.ynu.ac.jp/kika2text2014.pdf#search=%27%E8%A3%9C%E3%82%B0%E3%83%A9%E3%83%95%27"
+            }, {
+               "date_added": "13156152017496990",
+               "id": "73",
+               "name": "Microsoft PowerPoint - 6.1-3配布",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.i.kyushu-u.ac.jp/~algo/6.1-3.pdf#search=%27%E6%9C%89%E5%90%91%E3%82%B0%E3%83%A9%E3%83%95%27"
+            }, {
+               "date_added": "13156152312222533",
+               "id": "74",
+               "name": "離散数学 第 13回 グラフ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dopal.cs.uec.ac.jp/okamotoy/lect/2012/discretemath/lect13.pdf#search=%27%E6%9C%89%E5%90%91%E3%82%B0%E3%83%A9%E3%83%95%27"
+            }, {
+               "date_added": "13156153076072751",
+               "id": "75",
+               "name": "L4relation.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.code.cei.uec.ac.jp/Class/dismath/dismath2007/L4relation.pdf#search=%27%E6%9C%89%E5%90%91%E3%82%B0%E3%83%A9%E3%83%95+%E9%96%A2%E4%BF%82%27"
+            }, {
+               "date_added": "13156154853074580",
+               "id": "76",
+               "name": "離散数学",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.hongo.wide.ad.jp/~jo2lxq/dm/lecture/02.pdf#search=%27%E9%96%A2%E4%BF%82R%27"
+            }, {
+               "date_added": "13156164148246506",
+               "id": "77",
+               "name": "kika2text2014.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tgt.ynu.ac.jp/kika2text2014.pdf#search=%275%E9%A0%82%E7%82%B9%E8%87%AA%E5%B7%B1%E8%A3%9C%E3%82%B0%E3%83%A9%E3%83%95%27"
+            }, {
+               "date_added": "13156164226287340",
+               "id": "78",
+               "name": "12gun_02hen_03.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ieice-hbkb.org/files/12/12gun_02hen_03.pdf#search=%275%E9%A0%82%E7%82%B9%E8%87%AA%E5%B7%B1%E8%A3%9C%E3%82%B0%E3%83%A9%E3%83%95%27"
+            }, {
+               "date_added": "13156179678280452",
+               "id": "79",
+               "name": "nlp1-09.key",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jaist.ac.jp/~kshirai/lec/i223/09.pdf#search=%27%E5%88%86%E9%A1%9E%E3%82%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%82%B9+%E9%A1%9E%E4%BC%BC%E5%BA%A6%27"
+            }, {
+               "date_added": "13156179879021925",
+               "id": "80",
+               "name": "Word2Vec | developer's blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://resola.ai/dev/2016/06/10/word2vec-2/"
+            }, {
+               "date_added": "13156180326310364",
+               "id": "81",
+               "name": "KAKEN — 研究者をさがす | REN Fu−JI (20264947)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://nrid.nii.ac.jp/ja/nrid/1000020264947/"
+            }, {
+               "date_added": "13156180619481879",
+               "id": "82",
+               "name": "任 福継 | 研究者情報 | J-GLOBAL 科学技術総合リンクセンター",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://jglobal.jst.go.jp/detail/?JGLOBAL_ID=200901049204098015&t=1"
+            }, {
+               "date_added": "13156181019150303",
+               "id": "83",
+               "name": "shirai00d.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jaist.ac.jp/~kshirai/papers/shirai00d.pdf#search=%27%E6%96%87%E8%84%88%E8%A7%A3%E6%9E%90%27"
+            }, {
+               "date_added": "13156232405934381",
+               "id": "84",
+               "name": "新标签页",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "chrome://newtab/"
+            }, {
+               "date_added": "13156350892663182",
+               "id": "85",
+               "name": "4.1 テキスト情報処理",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.f.waseda.jp/kane/sp_multi/chap_4.html"
+            }, {
+               "date_added": "13156351704511662",
+               "id": "86",
+               "name": "逆ポーランド記法と木構造の絵 - Qiita",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://qiita.com/yumura_s/items/ddb0d143fb0e9a082891"
+            }, {
+               "date_added": "13156502595110671",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13175791981967378"
+               },
+               "name": "Project Jupyter | Install",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://jupyter.org/install.html"
+            }, {
+               "date_added": "13156833790764803",
+               "id": "88",
+               "name": "厦门市五险一金及税后工资计算器",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://salarycalculator.sinaapp.com/city/xiamen"
+            }, {
+               "date_added": "13164649744087152",
+               "id": "89",
+               "name": "自然语言处理入门（4）——中文分词原理及分词工具介绍 - CSDN博客",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.csdn.net/flysky1991/article/details/73948971"
+            }, {
+               "date_added": "13164655586111803",
+               "id": "90",
+               "name": "我用 Python 分析了《红楼梦》，有了一个重大发现",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://daily.zhihu.com/story/9631416"
+            }, {
+               "date_added": "13164655663620760",
+               "id": "91",
+               "name": "用机器学习判定红楼梦后40回是否曹雪芹所写",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/21421723"
+            }, {
+               "date_added": "13164655718768250",
+               "id": "92",
+               "name": "LouYu2015/analysis_on_the_story_of_a_stone: Analysis on the novel \"the Story of a Stone\"",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/LouYu2015/analysis_on_the_story_of_a_stone"
+            }, {
+               "date_added": "13164655723616726",
+               "id": "93",
+               "name": "紅樓夢 - 维基文库，自由的图书馆",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zh.wikisource.org/wiki/%E7%B4%85%E6%A8%93%E5%A4%A2"
+            }, {
+               "date_added": "13164655903669465",
+               "id": "94",
+               "name": "用机器学习的方法鉴别红楼梦作者 - 人工智能(自然语言处理/机器学习/智能设备与机器人) - 经管之家(原人大经济论坛)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bbs.pinggu.org/thread-4466314-1-1.html"
+            }, {
+               "date_added": "13164655965306294",
+               "id": "95",
+               "name": "Huangtuzhi/reality-of-Dream-of-Red-Mansions: Comparision analysis of words use between 1 to 80 chapters and 80 to 120 chapters of 《A Dream of Red Mansions》.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/Huangtuzhi/reality-of-Dream-of-Red-Mansions"
+            }, {
+               "date_added": "13164656785169910",
+               "id": "96",
+               "name": "红楼梦 - 维基文库，自由的图书馆",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zh.wikisource.org/zh-hans/%E7%B4%85%E6%A8%93%E5%A4%A2"
+            }, {
+               "date_added": "13164656856046018",
+               "id": "97",
+               "name": "用人工智能研究了《红楼梦》，发现了贾府的兴衰中的惊人秘密",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.360doc7.net/wxarticlenew/706455505.html?from=timeline&isappinstalled=0"
+            }, {
+               "date_added": "13170236640124583",
+               "id": "98",
+               "name": "TF-IDF与余弦相似性的应用（一）：自动提取关键词 - 阮一峰的网络日志",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ruanyifeng.com/blog/2013/03/tf-idf.html"
+            }, {
+               "date_added": "13170237235443853",
+               "id": "99",
+               "meta_info": {
+                  "last_visited": "13178308334918175"
+               },
+               "name": "《信息检索与人工智能》_优秀范文十篇 www.fanwen99.cn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.fanwen99.cn/article/%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.htm"
+            }, {
+               "date_added": "13170237486451839",
+               "id": "100",
+               "name": "新手学信息检索1：浅谈信息检索 - haolujun - 博客园",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.cnblogs.com/haolujun/archive/2013/01/06/2845613.html"
+            }, {
+               "date_added": "13170238035307173",
+               "id": "101",
+               "name": "新手学信息检索2：倒排表与存储 - haolujun - 博客园",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cnblogs.com/haolujun/archive/2013/01/06/2847510.html"
+            }, {
+               "date_added": "13170239024137993",
+               "id": "102",
+               "name": "Introduction to Information Retrieval",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://nlp.stanford.edu/IR-book/"
+            }, {
+               "date_added": "13170239398937092",
+               "id": "103",
+               "name": "文本相似度-bm25算法原理及实现 - 简书",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/1e498888f505"
+            }, {
+               "date_added": "13170248475239095",
+               "id": "104",
+               "name": "神经网络入门 - 阮一峰的网络日志",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ruanyifeng.com/blog/2017/07/neural-network.html"
+            }, {
+               "date_added": "13170325516195358",
+               "id": "105",
+               "name": "Multimedia Laboratory",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html"
+            }, {
+               "date_added": "13174553247282491",
+               "id": "106",
+               "name": "Stochastic Gradient Descent ( 随机梯度下降 ) - Scikit-Learn - ApacheCN（Apache中文网）",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cwiki.apachecn.org/pages/viewpage.action?pageId=10814357"
+            }, {
+               "date_added": "13174553384905912",
+               "id": "107",
+               "name": "梯度下降（Gradient Descent）小结 - 刘建平Pinard - 博客园",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.cnblogs.com/pinard/p/5970503.html"
+            }, {
+               "date_added": "13174663339308750",
+               "id": "108",
+               "name": "Zettair Homepage",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.seg.rmit.edu.au/zettair/index.html"
+            }, {
+               "date_added": "13174665181272052",
+               "id": "109",
+               "meta_info": {
+                  "last_visited": "13178188104706391",
+                  "last_visited_desktop": "13180647529515857"
+               },
+               "name": "TREC CAR ← TREC CAR",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://trec-car.cs.unh.edu/"
+            } ],
+            "date_added": "13181248577821024",
+            "date_modified": "13181248577821024",
+            "id": "45",
+            "name": "NLP",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13157696046807440",
+               "id": "61",
+               "name": "Android逆向基础知识Smali - sevck - 博客园",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.cnblogs.com/sevck/p/6844513.html"
+            } ],
+            "date_added": "13181248577821219",
+            "date_modified": "13181248577821219",
+            "id": "46",
+            "name": "安卓逆向",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13046553804355285",
+            "id": "47",
+            "name": "Sublime Text 3 破解版 + 注册机 + 汉化包 + 教程 - 朽木博客",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.xiumu.org/note/sublime-text-3.shtml"
+         }, {
+            "date_added": "13050070300577877",
+            "id": "48",
+            "name": "湖南卫视在线直播_湖南卫视直播_湖南卫视节目表 - 芒果直播网",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "http://www.mgzhibo.com/play/2-6-1.html"
+         }, {
+            "date_added": "13050070608670045",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13175088884607832"
+            },
+            "name": "湖南卫视HD[QQ]直播_小二电视",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "http://xiaoer.tv/tv/?HNTV-hd-qq.html"
+         }, {
+            "date_added": "13069230257694390",
+            "id": "50",
+            "name": "Tiffany & Co. | ご利用ありがとうございました",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://www.tiffany.co.jp/Customer/Checkout/ThankYou.aspx?siteid=4&tn=10887473&grandSubTotal=393120.0000&igc=True&egc=0&ct=VISA&gco=1"
+         }, {
+            "date_added": "13070841198998321",
+            "id": "51",
+            "meta_info": {
+               "last_visited": "13175105188396437",
+               "last_visited_desktop": "13175088896815631"
+            },
+            "name": "打造自己喜欢的Linux桌面----archlinux_三尺椴_新浪博客",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://blog.sina.com.cn/s/blog_6a75ed3d0100p49i.html"
+         }, {
+            "children": [ {
+               "date_added": "13167818553927980",
+               "id": "53",
+               "name": "机器学习快速入门：你必须知道的三大算法-博客-云栖社区-阿里云",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://yq.aliyun.com/articles/222434?utm_content=m_33128"
+            }, {
+               "date_added": "13167818973207233",
+               "id": "54",
+               "name": "UCI Machine Learning Repository: Data Sets",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://archive.ics.uci.edu/ml/datasets.html"
+            }, {
+               "date_added": "13167818976623194",
+               "id": "55",
+               "name": "Tutorials - Online Data Analysis & Interpretation | DataCamp",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.datacamp.com/community/tutorials"
+            }, {
+               "date_added": "13167818978871168",
+               "id": "56",
+               "name": "Datasets for Data Mining and Data Science",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.kdnuggets.com/datasets/index.html"
+            }, {
+               "date_added": "13167819080718684",
+               "id": "57",
+               "name": "Python Machine Learning: Scikit-Learn Tutorial (article) - DataCamp",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.datacamp.com/community/tutorials/machine-learning-python#gs.HfAvLRs"
+            }, {
+               "date_added": "13168003466360550",
+               "id": "58",
+               "name": "TensorFlow深度学习手写数字识别初体验 - jimmysong.io|宋净超的博客|Cloud Native|Big Data",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://jimmysong.io/posts/tensorflow-and-deep-learning-without-a-phd/"
+            }, {
+               "date_added": "13175184350294152",
+               "id": "59",
+               "meta_info": {
+                  "last_visited_desktop": "13175184350296511"
+               },
+               "name": "Mac OS下 Anaconda Python2 和 Python3 配置",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://youjiexia.github.io/2017/05/01/Installing-Python27-and-Python36-Concurrently/"
+            }, {
+               "date_added": "13175185115727281",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13181235674387562"
+               },
+               "name": "在CentOS下编译安装GCC | 秋水逸冰",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://teddysun.com/432.html"
+            } ],
+            "date_added": "13181248577835760",
+            "date_modified": "13181248577835760",
+            "id": "52",
+            "name": "机器学习",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13181248526408092",
+         "date_modified": "13078680341430073",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13181248526408097",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "14",
+      "synced": {
+         "children": [ {
+            "date_added": "13167853284323596",
+            "id": "5",
+            "name": "ホーム - Raspberry Pi Shop by KSY",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://raspberry-pi.ksyic.com/main/index"
+         }, {
+            "date_added": "13169707917119510",
+            "id": "6",
+            "name": "SIGIR 2016信息检索精选论文-极客",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://geek.csdn.net/news/detail/133916"
+         }, {
+            "date_added": "13169708688422916",
+            "id": "7",
+            "name": "人工智能与信息检索比较研究_百度学术",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://xueshu.baidu.com/s?wd=paperuri:(b12e8e42ddf88833501495065dd04e5a)&filter=sc_long_sign&tn=SE_baiduxueshuwise_y5e9t2rx&sc_us=11861152805606912938"
+         }, {
+            "date_added": "13169708878048794",
+            "id": "8",
+            "name": "2017年度最值得读的AI论文 | NLP篇 · 评选结果公布-云栖社区",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.aliyun.com/yunqi/articles/415559"
+         }, {
+            "date_added": "13172740222985653",
+            "id": "9",
+            "name": "TREC2017-notebook.zip_免费高速下载|百度网盘-分享无限制",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://pan.baidu.com/s/1o89Rqrg%E3%80%82"
+         }, {
+            "date_added": "13172740670536693",
+            "id": "10",
+            "name": "TREC概况及TREC-10简介.ppt -max上传文档投稿赚钱-文档C2C交易模式-100%分成比例文档分享网",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.book118.com/html/2015/0410/14673016.shtm"
+         }, {
+            "date_added": "13172868511906284",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13178390927322810"
+            },
+            "name": "Ameri Ichinose in Womens Fashion 3 part 1 - VJAV.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://jp.vjav.com/videos/13079/ameri-ichinose-in-womens-fashion-3-part-1/?fr=13079&rp=2"
+         }, {
+            "date_added": "13172907538781221",
+            "id": "12",
+            "name": "主题建模入门指南（python） - CSDN博客",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.csdn.net/Allenalex/article/details/56510618"
+         }, {
+            "date_added": "13173111875395294",
+            "id": "13",
+            "name": "MKOnlinePlayer v2.21",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://yuweining.cn/t/Html5/163mp3/"
+         }, {
+            "date_added": "13173432030495543",
+            "id": "14",
+            "name": "Keep Learning - ML",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://backnode.github.io/category/ml.html"
+         }, {
+            "date_added": "13174273181121052",
+            "id": "15",
+            "name": "文献期刊 | 查阅期刊文献的网站有哪些_什么值得买",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://post.m.smzdm.com/p/695828"
+         }, {
+            "date_added": "13174458749792770",
+            "id": "16",
+            "name": "网易云音乐PC客户端加密API逆向解析 - h2z - 博客园",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.cnblogs.com/h2zZhou/p/8567208.html"
+         }, {
+            "date_added": "13174856770501112",
+            "id": "17",
+            "name": "Deep Learning Setup in Arch Linux: From Start To Finish with PyTorch + TensorFlow + Nvidia CUDA +…",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@k_efth/deep-learning-in-arch-linux-from-start-to-finish-with-pytorch-tensorflow-nvidia-cuda-9a873c2252ed"
+         }, {
+            "date_added": "13175008014720632",
+            "id": "18",
+            "meta_info": {
+               "last_visited": "13175008224680847"
+            },
+            "name": "Linux NetworkManager切换到systemd-network - OS - 从此网",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://item.congci.com/-/content/linux-networkmanager-qiehuan-dao-systemd-network"
+         }, {
+            "date_added": "13175009179618975",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13175962656819918"
+            },
+            "name": "ArchLinux安装桌面环境（KDE） - 下一首歌的时间 - 简书",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/c8dd92c45769"
+         }, {
+            "date_added": "13175260399571741",
+            "id": "20",
+            "meta_info": {
+               "last_visited": "13175260399574246",
+               "last_visited_desktop": "13176281294096009"
+            },
+            "name": "IR中的一些基本术语",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://ccl.pku.edu.cn/doubtfire/nlp/Information_Retrieval/Introduction/IR_Terms.htm"
+         }, {
+            "date_added": "13175269001280393",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13175887781491740"
+            },
+            "name": "不是你无法入门自然语言处理（NLP），而是你没找到正确的打开方式 | 雷锋网",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.leiphone.com/news/201705/vyn9xgep9uQLIf6d.html"
+         }, {
+            "date_added": "13175289022035389",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13175289022036613"
+            },
+            "name": "【Comfort Fit Airframe2】コンフォートフィット エアフレーム２ MRF-17S-144 58 商品詳細 | JINS - 眼鏡（メガネ・めがね） | メガネのJINS（めがね・眼鏡）",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.jins.com/jp/item/MRF-17S-144_58.html"
+         }, {
+            "date_added": "13175316633849306",
+            "id": "23",
+            "meta_info": {
+               "last_visited": "13178390835538441"
+            },
+            "name": "いまドコなん",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://transfer.navitime.biz/tokushima/smart/top/Top"
+         }, {
+            "date_added": "13175770464377912",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13175770464378813"
+            },
+            "name": "在系统工作时调整分区：移动/home",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.ibm.com/developerworks/cn/linux/l-tip-prompt/tip05/index.html"
+         }, {
+            "date_added": "13175889111625110",
+            "id": "25",
+            "meta_info": {
+               "last_visited": "13175889111630106"
+            },
+            "name": "跨语言信息检索技术研究 - 韩冬梅, 郑德权, 于凤 - Google 图书",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://books.google.co.jp/books?id=_8BTDQAAQBAJ&pg=PT25&lpg=PT25&dq=nlp%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91&source=bl&ots=IMdTRr-ySn&sig=ZWX0-q3ycgHg72tq5EHB3OvArLM&hl=zh-CN&sa=X&ved=2ahUKEwiy4OKXh5rcAhWJXbwKHWJRDws4ChDoATAJegQICRAB#v=onepage&q=nlp%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91&f=false"
+         }, {
+            "date_added": "13175932115562125",
+            "id": "26",
+            "meta_info": {
+               "last_visited": "13175932115565523"
+            },
+            "name": "9行Python代码搭建神经网络 - 集智专栏",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.jp/amp/s/jizhi.im/amp/blog/post/nn_py_9"
+         }, {
+            "date_added": "13175932386944949",
+            "id": "27",
+            "meta_info": {
+               "last_visited": "13175960322563367"
+            },
+            "name": "震惊！9行代码就能搭建一个神经网络 | 杨德杰",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://blog.idejie.com/2017/04/07/how-to-build-a-simple-neural-network-in-9-lines-of-python-code/"
+         }, {
+            "date_added": "13175964969381670",
+            "id": "28",
+            "meta_info": {
+               "last_visited": "13175964969387902",
+               "last_visited_desktop": "13178318674693847"
+            },
+            "name": "知识图谱技术解剖 - 方弟 - 简书",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/bd15e0f50eb9"
+         }, {
+            "date_added": "13177743649407335",
+            "id": "29",
+            "meta_info": {
+               "last_visited": "13178188123759277"
+            },
+            "name": "[分享]CVE-2015-8950 漏洞分析及美国UC Riverside钱志云老师2018年度招生启事-『Android安全』-看雪安全论坛",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "https://bbs.pediy.com/thread-220634.htm"
+         }, {
+            "date_added": "13177784343861755",
+            "id": "30",
+            "meta_info": {
+               "last_visited_desktop": "13177784343862195"
+            },
+            "name": "Google 翻译",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://translate.google.com/?source=gtx#en/zh-CN/%23data%20processing%0A%0AYou%20should%20treat%20your%20data%20format%20as%20'sample.txt'%2C%20formatted%20as%20'label%20%5Ct%20query%5Ct%20document_txt'.In%20detail%2C%20label%20donotes%20the%20relation%20between%20query%20and%20document%2C%201%20means%20the%20query%20is%20related%20to%20the%20document%2C%20otherwise%20it%20does%20not%20matter.the%20words%20in%20query%20and%20documents%20are%20separated%20by%20white%20space.To%20understand%20that%20most%20models%20require%20'corpus_preprocessed.txt'%2C%20'relation_train.txt'%2C%20'relation_valid.txt'%2C%20'relation_test.txt'%2C%20'embed_glove_d50'%20files%2Cdo%20the%20following%3A%0A%0A1.Generating%20the%20files%20named%20'relation_train.txt'%2C%20'relation_valid.txt'%2C%20'relation_test.txt'%20and%20'corpus.txt'%20by%20excuting%20the%20file%20named%20%20'preparation.py'%20which%20can%20be%20found%20under%20MatchZoo%2Fmatchzoo%2Finputs.%20You%20can%20follow%20the%20process%20of%20production%20data%20below%2C%20which%20is%20the%20function%20'main'%20of%20the%20'preparation.py'%20script.%0A%0A%23%23%20begining%20of%20this%20process%0A1)create%20Preparation%20object.%0A2)specify%20the%20base%20directory%20where%20you%20want%20to%20load%20the%20files.%0A3)call%20the%20function%20'run_with_one_corpus'%20of%20the%20Preparation%20object%20and%20specify%20a%20parameter%2C%20which%20is%20denotes%20the%20raw%20data.The%20function%20of%20'run_with_one_corpus'%20is%20transfering%20the%20format%20of%20'sample.txt'%20to%20the%20format%20like%20this%20'id%20words'%2C%20then%20outputing%20the%20relation%20files%20'rel'%20between%20queries%20and%20doecuments.%0A4)save%20'corpus.txt'%20by%20calling%20the%20function%20'save_corpus'%20of%20Preparation%20object.%0A5)shuffle%20the%20relationship%20in%20the%20file%20'rel'%2C%20and%20then%20cut%20it%20into%20a%20specified%20percentage%20of%20the%20file.%20Detailedly%2C%20If%20you%20want%20to%20adjust%20output%20data%20radio%2C%20specify%20the%20seond%20parameter%20of%20function%20'split_train_valid_test'%2C%20and%20which%20represent%20the%20percentage%20of%20the%20training%20data%2C%20valid%20data%2C%20test%20data%2C%20orderly.%0A6)save%20relationship%20file%20by%20calling%20the%20function%20'save_relation'%20of%20Preparation%20object%2C%20with%20specify%20the%20path%20you%20want%20to%20save.%20%0A%23%23%20ending%20of%20this%20process%0A%0A%0A2.Generating%20the%20files%20named%20'corpus_preprocessed.txt'%20%2C%20'wodr_dict.txt'.%20And%20if%20you%20need%20CF%2CCF%2CIDF%20of%20documents%2Cyou%20can%20save%20'word_stats.txt'%20by%20excuting%20function%20'preprocessor.save_words_stats'.%20Amply%2C%20the%20models%20in%20MatchZoo%20requires%20that%20all%20words%20must%20be%20id%20instead%20of%20string%2C%20so%20you%20should%20map%20the%20string%20to%20id%20by%20excuting%20the%20function%20named%20'preprocessor.run'%2C%20then%20specify%20it's%20output%20name%20and%20save%20it.Generate%20the%20files%20%2C%20referencing%20to%20the%20function%20'main'%20of%20the%20file%20'preprocess.py'%20which%20can%20be%20found%20under%20MatchZoo%2Fmatchzoo%2Finputs.%0A%0A%23%23%20begining%20of%20this%20process%0A1)create%20Preprocess%20object%2C%20and%20you%20can%20specify%20the%20parameter%20making%20some%20constriant%20like%20spcify%20the%20frequence%20of%20words%2C%20which%20is%20filtered%20if%20the%20words%20do%20not%20in%20thei%20frequency%20band%20etc.%0A2)excute%20the%20function%20'run'%20of%20object%20Preprocess%2C%20then%20get%20the%20documents'%20id%20and%20words%20mapped%20as%20id%2C%20with%20your%20inititialization%20paramters.%0A3)save%20word%20dict%20file%20by%20excuting%20function%20'save_word_dict'%20of%20Preprocess%20object%2C%20and%20save%20'word_stats.txt'%20by%20excuting%20function%20%20'save_words_stats'%20of%20Preprocess%20object%20too%2C%20which%20contains%20information%20like%20DF%2CCF%2CIDF%20sequentially.%0A4)then%20save%20corpus%20information%20whose%20words%20has%20been%20mapped%20as%20id%2C%20with%20specified%20path%20by%20yourself.%0A%23%23%20ending%20of%20this%20process%0A%0A%0A3.Generating%20the%20file%20named%20'embed_glove_d50'%20by%20excuting%20the%20file%20named%20'gen_w2v.py'%20which%20at%20the%20patch%20of%20MatchZoo%20MatchZoo%2Fdata%2FWikiQA%2F%2C%20whith%20three%20parameters%20'glove.840B.300d.txt'%2C%20'word_dict.txt'%2C%20'embed_glove_d300'%2C%20And%20the%20first%20parameter%20denotes%20the%20embedding%20download%20from%20url'http%3A%2F%2Fnlp.stanford.edu%2Fdata%2Fglove.840B.300d.zip'%20or%20where%20you%20want%2C%20the%20second%20parameter%20denotes%20the%20file%20mapping%20string%20words%20to%20words%20id%2C%20the%20last%20paramter%20denotes%20the%20output%20embedding%20for%20your%20own%20dataset%20starting%20with%20word%20id%20and%20following%20with%20embeddings.%0A%0A%23%23%20begining%20of%20this%20process%0A1)load%20word%20dict%20file%20and%20word%20vectors%20sequentially.%0A2)get%20the%20dimension%20of%20embedding%20you%20downloaded.%0A3)get%20the%20third%20parameter%20where%20is%20the%20path%20you%20want%20to%20output.%0A4)write%20the%20word%20embedding%20in%20your%20corpus.%0A5)randomly%20generated%20it%2C%20if%20the%20words%20in%20your%20corpus%20not%20in%20the%20embedding%20file%20you%20downloaded.%20%0A%23%23%20ending%20of%20this%20process%0A%0A%0A4.What's%20more%2C%20here%20is%20how%20to%20generate%20special%20files%20for%20other%20models%3A%0A%0A%094.1%20Generating%20the%20files%20that%20DRMM%20needs.%20Generating%20the%20IDF%20file%20by%20cutting%20off%20a%20part%20of%20'word_stats.txt'%20whith%20this%20command%20'cat%20word_stats.txt%20%7C%20cut%20-d%20'%20'%20-f%201%2C4%20%3E%20embed.idf'%20in%20linux%20console.%20Then%20generating%20histograms%20of%20DRMM.%20You%20can%20run%20this%20script%20'python%20gen_hist4drmm.py%2060'%20%20as%20%20WiKiQA%20data%20which%20is%20under%20%20MatchZoo%2Fdata%2FWikiQA%2C%20and%20the%20only%20parameter%20represents%20the%20size%20of%20histograms.following%20this%20step%20found%20in%20function%20'main'%20at%20file%20'gen_hist4drmm.py'%2C%20you%20can%20generate%20this%20file.%0A%0A%09%23%23%20begining%20of%20this%20process%0A%091)%20get%20the%20size%20of%20histograms%20fisrt.%0A%092)%20specify%20the%20source%20file%2C%20and%20then%20define%20the%20path%20of%20the%20embedding%20file%2C%20relation%20file(including%20train%2C%20valid%2C%20and%20test)%2C%20output%20file%20for%20histograms.%0A%093)%20random%20generate%20embedding%20vectors%2C%20then%20cover%20download%20embedding%20into%20it.The%20purpose%20of%20its%20doing%20so%20is%20to%20make%20words%20that%20are%20not%20in%20the%20dict%20also%20own%20random%20embedding%20to%20be%20used.%0A%094)%20read%20the%20corpus.%0A%095)%20generage%20histograms%20by%20calling%20func"
+         }, {
+            "date_added": "13177784940814273",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13177788528544279"
+            },
+            "name": "problem with icons in Dolphin(file manager)+I3WM : i3wm",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/i3wm/comments/8k4bb8/problem_with_icons_in_dolphinfile_manageri3wm/"
+         }, {
+            "date_added": "13179949910610126",
+            "id": "32",
+            "name": "橋本ありなデビュー1周年 ありなの初めてのベスト盤 OFJE-112 - 2 - Avgle",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://avgle.com/video/hb4M2MiEEMM/%E6%A9%8B%E6%9C%AC%E3%81%82%E3%82%8A%E3%81%AA%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC1%E5%91%A8%E5%B9%B4-%E3%81%82%E3%82%8A%E3%81%AA%E3%81%AE%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E7%9B%A4-ofje-112-2"
+         }, {
+            "date_added": "13180638550228540",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13180638550232786"
+            },
+            "name": "sigir2016论文 - 百度",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.baidu.com/mip/c/mip.7624.net/toutiao/799978.html"
+         }, {
+            "date_added": "13180640065227862",
+            "id": "34",
+            "meta_info": {
+               "last_visited": "13180640065231204"
+            },
+            "name": "清华大学：基于实体的神经信息检索模型-理解实体在神经信息检索模型中的作用-科技频道-手机搜狐",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.sohu.com/a/234974539_100118081"
+         }, {
+            "date_added": "13180640828288298",
+            "id": "35",
+            "meta_info": {
+               "last_visited": "13180641180012391"
+            },
+            "name": "学界 | 微软论文概述神经信息检索技术：如何将神经网络用于信息检索？-科技频道-手机搜狐",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.sohu.com/a/140295414_465975"
+         }, {
+            "date_added": "13181074238824370",
+            "id": "36",
+            "name": "ナンパされた激カワ美女がお金欲しさにホテルで美乳を揺らして正常位に喘ぐ - Pornhub.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://jp.pornhub.com/view_video.php?viewkey=ph5b84ac9a88fe7"
+         } ],
+         "date_added": "13181248526408098",
+         "date_modified": "13181074238824370",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

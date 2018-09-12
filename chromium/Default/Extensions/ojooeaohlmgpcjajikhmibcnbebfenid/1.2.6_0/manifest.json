@@ -1,0 +1,27 @@
+{
+   "author": "DorsyWang(王斌)",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon/48.png"
+   },
+   "content_scripts": [ {
+      "js": [ "google-analytics-bundle.js", "alloydesigner.js" ],
+      "matches": [ "*://*/*", "file:///*" ]
+   } ],
+   "default_locale": "en",
+   "description": "A web front-end development tool,前端重构开发辅助工具",
+   "homepage_url": "http://alloyteam.github.io/AlloyDesigner/",
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "48": "icon/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArvLGJkr7vndDExeGyg6wycQgJo96PVLAcCpnGVWPN7b6eq49sw1x0CZ76oCwYNMaKHkD6WJ3XOdmKsiomvjrAsEGu7n7GhuRZ3UWkby0e8RBAaC7EdSrNtxsrB+9EpwLsBA3a5RkrH365CAiDqrq/4nZE8Casj5dtB6r27nRyrjOn/EHUdWpk8cAqgl6g/yrhyJEwR5CHMCVWJuIBfIn2N2vtalS/jw7W54xfP+u7U+QfNowy9HNXdwnlvofgznEFz87Oaq/FB8vgyRvxBQL4oaQNeGdx76ocT1ayQlrRrDfO3QnsTYty8v4jpS5CM1jwvFQ0LPmr+35UpZkb8TK4wIDAQAB",
+   "manifest_version": 2,
+   "name": "AlloyDesigner",
+   "permissions": [ "https://www.google-analytics.com/", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.6"
+}

@@ -1,0 +1,140 @@
+{
+   "Email": {
+      "message": "Email"
+   },
+   "Expire_featrue": {
+      "message": "This feature is paused due to Pro version expired."
+   },
+   "Ext_pro": {
+      "message": "Pro version Renewals"
+   },
+   "ForgetPassword": {
+      "message": "Forget Password?"
+   },
+   "Login": {
+      "message": "Login"
+   },
+   "Msg_login_success": {
+      "message": " Login successful."
+   },
+   "Msg_user_not_active": {
+      "message": "User account is not active, please login into you email and click the activate url."
+   },
+   "Msg_user_wrong": {
+      "message": "Email or password wrong."
+   },
+   "Password": {
+      "message": "Password"
+   },
+   "Premium_is_good": {
+      "message": "Sign up for access to \u003Cstrong>mobile device support\u003C/strong> and get more exciting features."
+   },
+   "Pro_expired": {
+      "message": "Pro version is expired.(If you have renewed your Pro, please click the 'Refresh user info' button below)"
+   },
+   "Pro_expired_notice": {
+      "message": "feature of this extension in your PC, mobile phone and pad is paused due to Pro version expired. Click to learn how to renew Pro version."
+   },
+   "Pro_near_expire": {
+      "message": "Pro version will expire soon."
+   },
+   "Pro_near_expire_notice": {
+      "message": "Please extend the Pro version to avoid affect your normal use, Click to know more."
+   },
+   "Pro_valid": {
+      "message": "Pro version is valid until $1 days after."
+   },
+   "Signup": {
+      "message": "Signup For Free"
+   },
+   "Warning_proxy": {
+      "message": "This extension needs browser's proxy privilege. Please restart browser after stop or uninstall the following extensions"
+   },
+   "Welcome": {
+      "message": "Welcome"
+   },
+   "Working_nomal": {
+      "message": "Basic features working fine."
+   },
+   "Working_paused": {
+      "message": "Unblock Boundary if off."
+   },
+   "ads_notice": {
+      "message": "Clean watch feature may fail due to video sites change their rules."
+   },
+   "appName": {
+      "message": "Unblock Boundary"
+   },
+   "block_ads": {
+      "message": "Clean watch"
+   },
+   "btn_exit": {
+      "message": "Quit"
+   },
+   "description": {
+      "message": "Help user abroad access their Video & music website"
+   },
+   "feedback": {
+      "message": "If you have any questions, please don't hesitate to \u003Ca href=\"$1\" target=\"_blank\">contact us\u003C/a>."
+   },
+   "feedback_btn": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Feedback\u003C/a>"
+   },
+   "help": {
+      "message": "If you are new to this extension, you can \u003Ca href=\"$1\" target=\"_blank\">read this\u003C/a>."
+   },
+   "m_server_type_basic": {
+      "message": "basic server"
+   },
+   "m_server_type_intro": {
+      "message": "Change the server to get more reliable connect and some times could fix unblock failure problem.\u003Ca href=\"$1\" target=\"_blank\">click to know detail.\u003C/a>"
+   },
+   "m_server_type_pro": {
+      "message": "Pro server"
+   },
+   "mobileUseTip": {
+      "message": "This extension can be used in mobile device. Click to see how it works."
+   },
+   "popup_title": {
+      "message": "Configure Unblock Boundary"
+   },
+   "premium": {
+      "message": "Go to pro version!"
+   },
+   "probonus_message": {
+      "message": "Congratulations, you can use Pro version with mobile device enabled, clean watch and Pro version server features for free until $1 days after."
+   },
+   "probonus_title": {
+      "message": "Congratulations"
+   },
+   "rating": {
+      "message": "If you find this extension helpful, \u003Ca href=\"$1\" target=\"_blank\">please help us to rate it\u003C/a>."
+   },
+   "refresh_member_btn": {
+      "message": "Refresh user info"
+   },
+   "sharing": {
+      "message": "Welcome to share it via"
+   },
+   "social_title": {
+      "message": "Please Follow Us"
+   },
+   "user_agreement": {
+      "message": "user agreement"
+   },
+   "user_in_queue_content": {
+      "message": "Sorry, but Unblock Boundary's basic server is too busy, we have put you into the waiting list, please wait a moment。Time:"
+   },
+   "user_in_queue_done": {
+      "message": "It's OK to go. Please re-open those pages opened before(do not use 'refresh')"
+   },
+   "user_in_queue_note": {
+      "message": "Or you can try to use Pro server fro free to enjoy right now, \u003Ca href=\"$1\" target=\"_blank\">Click to know more about Pro server\u003C/a>"
+   },
+   "user_in_queue_orginal_wait": {
+      "message": "The original wait time is $1 seconds，according to your contribution value, has been deducted $2 seconds waiting time."
+   },
+   "user_in_queue_title": {
+      "message": "Unblock Boundary is busy"
+   }
+}

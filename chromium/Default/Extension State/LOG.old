@@ -1,0 +1,7 @@
+2018/09/12-17:51:25.879 835 Log #9: dropping 2124 bytes; Corruption: missing start of fragmented record(2)
+2018/09/12-17:51:25.882 835 Log #9: 28 ops saved to Table #10 OK
+2018/09/12-17:51:25.882 835 Archiving /home/kou2n/.config/chromium/Default/Extension State/000009.log: OK
+2018/09/12-17:51:25.887 835 Table #4: 630 entries OK
+2018/09/12-17:51:25.887 835 Table #10: 28 entries OK
+2018/09/12-17:51:25.887 835 Archiving /home/kou2n/.config/chromium/Default/Extension State/MANIFEST-000001: OK
+2018/09/12-17:51:25.890 835 **** Repaired leveldb /home/kou2n/.config/chromium/Default/Extension State; recovered 2 files; 1618704 bytes. Some data may have been lost. ****

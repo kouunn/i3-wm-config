@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title class="trans">Customize_Encoding_Menu</title>    
+<link rel="stylesheet" href="css/bootstrap.min.css"> 
+<link rel="stylesheet" href="css/option.css"> 
+<script src="scr/jquery.min.js"></script>
+<script src="scr/charsets.js"></script>        
+<script src="scr/option.js"></script>    
+<!-- <script src="scr/bootstrap.min.js"></script>        -->  
+</head>
+<body>
+    <div class="container">  
+        <h1 class="trans">Customize_Encoding_Menu</h1>
+        
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="panel panel-default">
+                  <div class="panel-heading"><h3 class="panel-title trans">Pre_defined_Encoding</h3></div>
+  
+                  <div class="panel-body">
+                    <p class="pull-left">  
+                        <span class="trans">Remove_unused_items_from menu</span>  
+                    </p>
+                    <div class="pull-right">
+                        <a class="btn btn-default trans" href="#" role="button" id="btn_all_off">All_OFF</a>                       
+                        <a class="btn btn-default trans" href="#" role="button" id="btn_all_on">All_ON</a>                        
+                    </div>    
+                  </div>
+                    
+                  <!-- Table -->
+                  <table class="table table-condensed" id="pre_defined">
+                    <tr class="">
+                        <th class="trans">Language</th>
+                        <th class="trans">Encoding</th>
+                        <th class="trans">_title_off_on</th>
+                    </tr>              
+                  </table>
+                </div>
+            </div>    
+
+            <div class="col-sm-6">            
+                <div class="panel panel-default">
+                  <!-- Default panel contents -->
+                  <div class="panel-heading"><h3 class="panel-title trans">User_defined_Encoding</h3></div>
+                  <div class="panel-body">
+                    <p class="trans">_msg_add_menu</p>
+                  </div>
+
+                  <!-- Table -->
+                  <table class="table table-condensed" id="usr_defined">
+                    <tr >
+                        <th class="trans">Language</th>
+                        <th class="trans">Encoding</th>
+                        <th></th>
+                    </tr>   
+                    <tr>
+                        <td>
+                            <a class="btn btn-default" href="#" role="button" id="btn_add">
+                                <span class="glyphicon glyphicon-plus"></span>
+                                <span class="trans">Add</span>
+                            </a>
+                        </td>
+                        <td></td>
+                        <td></td>
+                    </tr>                        
+                  </table>
+                </div>                            
+                <p>
+                    <a class="btn btn-primary trans" href="#" role="button" id="btn_save">Save</a>
+                    <span id="save_status" class="trans">_msg_saved</span>
+                </p>                
+                <footer class="trans">_footer_msg</footer>              
+            </div>                 
+        </div>    
+    </div>
+</body>
+</html>

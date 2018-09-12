@@ -1,0 +1,13 @@
+[Added Associations]
+application/zip=wps-office-et.desktop;
+
+[Default Applications]
+application/zip=wps-office-et.desktop;
+text/html=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+application/pdf=FoxitReader.desktop
+application/ppdf=FoxitReader.desktop
+application/octet-stream=FoxitReader.desktop

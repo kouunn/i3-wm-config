@@ -1,0 +1,140 @@
+{
+   "Email": {
+      "message": "Email地址"
+   },
+   "Expire_featrue": {
+      "message": "Pro版本过期导致此项功能失效。"
+   },
+   "Ext_pro": {
+      "message": "延长Pro版本时间"
+   },
+   "ForgetPassword": {
+      "message": "忘记密码?"
+   },
+   "Login": {
+      "message": "登录"
+   },
+   "Msg_login_success": {
+      "message": " 登录成功."
+   },
+   "Msg_user_not_active": {
+      "message": "账号尚未激活，请登录你的邮箱激活该账号."
+   },
+   "Msg_user_wrong": {
+      "message": "Email地址或密码错误."
+   },
+   "Password": {
+      "message": "密码"
+   },
+   "Premium_is_good": {
+      "message": "注册并登录后能够开启\u003Cstrong>零等待观看，手机、平板电脑解除视频、音乐访问障碍，更快的专属服务器\u003C/strong>等高级功能。"
+   },
+   "Pro_expired": {
+      "message": "Pro版本已经过期了.(若已经重新购买过了Pro，请点击下面的'刷新用户信息'按钮查看最新有效期)"
+   },
+   "Pro_expired_notice": {
+      "message": "零等待观看功能失效，你的电脑将不能使用更稳定快速的Pro版服务器，你的手机或者平板电脑也将无法使用Unblock Boundary解除访问障碍。点击了解怎么延长Pro版本时间。"
+   },
+   "Pro_near_expire": {
+      "message": "Pro版本即将过期."
+   },
+   "Pro_near_expire_notice": {
+      "message": "你的Pro版本即将失效，为不影响你的正常使用，请及时续费，点击查看。"
+   },
+   "Pro_valid": {
+      "message": "Pro版本有效期至 $1 天后结束"
+   },
+   "Signup": {
+      "message": "免费注册"
+   },
+   "Warning_proxy": {
+      "message": "本扩展需要代理权限, 请停止/卸载以下扩展后, 重启浏览器"
+   },
+   "Welcome": {
+      "message": "欢迎你"
+   },
+   "Working_nomal": {
+      "message": "基本功能正常工作中。"
+   },
+   "Working_paused": {
+      "message": "Unblock Boundary 已经被你暂停使用。"
+   },
+   "ads_notice": {
+      "message": "由于视频网站更新可能会导致零等待观看功能失效。若发现失效网址，请:"
+   },
+   "appName": {
+      "message": "Unblock Boundary"
+   },
+   "block_ads": {
+      "message": "零等待观看"
+   },
+   "btn_exit": {
+      "message": "退出"
+   },
+   "description": {
+      "message": "帮助海外华人用户解除大陆的影视听网站访问障碍"
+   },
+   "feedback": {
+      "message": "如遇到问题或有任何建议，\u003Ca href=\"$1\" target=\"_blank\">欢迎联系我们\u003C/a>"
+   },
+   "feedback_btn": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">点击反馈\u003C/a>"
+   },
+   "help": {
+      "message": "如您是第一次安装此扩展，\u003Ca href=\"$1\" target=\"_blank\">请点击这里查看常见问题\u003C/a>"
+   },
+   "m_server_type_basic": {
+      "message": "基础版服务器"
+   },
+   "m_server_type_intro": {
+      "message": "通过更改服务器，获得更好的速度，还可能解决失效问题。\u003Ca href=\"$1\" target=\"_blank\">点击了解更多\u003C/a>"
+   },
+   "m_server_type_pro": {
+      "message": "Pro版本专用服务器"
+   },
+   "mobileUseTip": {
+      "message": "点击查看怎么在手机、平板电脑上使用。"
+   },
+   "popup_title": {
+      "message": "Unblock Boundary  设置"
+   },
+   "premium": {
+      "message": "登录进入Pro版本"
+   },
+   "probonus_message": {
+      "message": "恭喜你，你可以免费使用Pro版本，包括可以在手机或平板电脑上使用、零等待观看、更快的专属服务器等高级功能，有效期至$1天后。"
+   },
+   "probonus_title": {
+      "message": "恭喜你！"
+   },
+   "rating": {
+      "message": "如您觉得这个扩展好用，\u003Ca href=\"$1\" target=\"_blank\">请帮我们打分\u003C/a>"
+   },
+   "refresh_member_btn": {
+      "message": "刷新用户信息"
+   },
+   "sharing": {
+      "message": "欢迎分享至"
+   },
+   "social_title": {
+      "message": "欢迎关注我们"
+   },
+   "user_agreement": {
+      "message": "使用协议"
+   },
+   "user_in_queue_content": {
+      "message": "对不起，由于Unblock Boundary基础版服务器繁忙，暂时不能响应服务，已经将你加入队列，请耐心等待。排队时间："
+   },
+   "user_in_queue_done": {
+      "message": "排队结束，可以开始使用了，注意，之前打開的頁面可能需要重新打開才能解除訪問障礙。"
+   },
+   "user_in_queue_note": {
+      "message": "或者你也可以免费试用Pro专用服务器，马上开始使用，\u003Ca href=\"$1\" target=\"_blank\">点击了解什么是Pro专用服务器\u003C/a>"
+   },
+   "user_in_queue_orginal_wait": {
+      "message": "原排队时间需$1秒，根据你的贡献值，已为你减去$2秒排队时间。"
+   },
+   "user_in_queue_title": {
+      "message": "Unblock Boundary基础版服务器繁忙"
+   }
+}

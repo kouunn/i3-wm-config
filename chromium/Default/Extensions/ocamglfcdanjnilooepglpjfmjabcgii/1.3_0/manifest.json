@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://imagecolorpicker.com/"
+      },
+      "urls": [ "http://imagecolorpicker.com/" ]
+   },
+   "description": "... pick your color online",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4H9Okhv/uMBsO5aa3QoEkBlMoiQ/mPViIZsgJi2qIpTZU29XYS4bE8vEmf49GBUKhxOpXb69n4dlclXMk+n3rVZy4kgaZBg0WMywT6WYQL9ft5T30+Zav3QW7ffo1pdUMjIa3v4AeTZVe4xZnJj4srZSO8TCKgFH7pasMSK8RCQIDAQAB",
+   "manifest_version": 2,
+   "name": "Image Color Picker - Pick your color online",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3"
+}

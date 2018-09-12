@@ -1,0 +1,39 @@
+{
+   "author": "Liming Jin, jinliming2@gmail.com",
+   "background": {
+      "scripts": [ "j/background.js", "j/encoding.js", "j/menu.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "i/19.png",
+         "38": "i/38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "js": [ "j/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "homepage_url": "https://github.com/jinliming2/Chrome-Charset",
+   "icons": {
+      "128": "i/128.png",
+      "16": "i/16.png",
+      "19": "i/19.png",
+      "32": "i/32.png",
+      "38": "i/38.png",
+      "64": "i/64.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmO9KSZdNKpyuI0rW75zTY19te2/tpNppf1j2naUU0Wbmg55aOHGcX2jKWkO4mkgqva7EfxDMrp/1V+1mnBx+hPHFiANXysjLDEaf93b49toQWwBWyYgf40KOnBfrNIvxCMJkfB9Gvk0TySayBNmfyXcMMMwz1gQFTC8ouTyf8u4YZSn0aCX8Cl+80czuCW8FjS9NB+71Hk2UAHcemhzGRvpwydlSjg2H+kDyhl5vvC1mlnRyL/pHFJh/g6ZVWBYly/zffexDKmidAky0ynYgLCiqvnPgC0ijTQVk2mjD8mWN3EVII1yt4MWz4woWOGwf72bfqbRdRxoPJ//O+jY4ewIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "__MSG_appName__",
+   "permissions": [ "\u003Call_urls>", "webRequest", "webRequestBlocking", "contextMenus", "tabs" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.2"
+}

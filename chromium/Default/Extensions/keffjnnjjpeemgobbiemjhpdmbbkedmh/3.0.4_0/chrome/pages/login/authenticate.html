@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Authenticator</title>
+        <link rel="stylesheet" type="text/css" href="../css/bootstrap-3.3.5.min.css" />
+        <link rel="stylesheet" type="text/css" href="../css/font-awesome-4.4.0.min.css">
+        <link rel="stylesheet" type="text/css" href="../css/popup.css" />
+        <script src="../js/jquery-2.1.4.min.js"></script>
+        <script src="../js/init.js"></script>
+        <script type="text/javascript" src="../js/analytics.js"></script>
+        <script src="main.js"></script>
+    </head>
+    <body>
+        <div id="wrapper" class="container-fluid">
+            <div class="container">
+                <p class="text-danger" id="msg_fail"></p>
+                <div id="login-from">
+                    <form method="post" action="#" id="main-form">
+                        <div class="form-group">
+                            <label for="nitc_username" id="Email">Email</label>
+                            <input class="form-control" type="text" name="nitc_username" id="nitc_username">
+                        </div>
+                        <div class="form-group">
+                            <label for="nitc_password" id="Password">Password</label>
+                            <input class="form-control" type="password" name="nitc_password" id="nitc_password">
+                        </div>
+                        <button type="submit" id="nitc_submit" class="btn btn-default btn-lg">Login</button>
+                    </form>
+                    
+                    <div style="height:60px"></div>
+                    <div style="text-align: center;"><a href="#" id="nitc_signup" class="btn btn-danger" target="_blank">Sign Up</a><a href="#" id="nitc_forgetpasswd" class="btn btn-info" target="_blank">Forget Password?</a></div>
+                </div>
+                <br/>
+                <p class="bg-info" id="Premium_is_good">Sign up for access to ads block and get more exciting features.</p>
+            </div>
+             <p class="text-success" id="msg_success"></p>          
+        </div>
+        
+    </body>
+</html>

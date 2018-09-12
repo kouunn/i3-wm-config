@@ -1,0 +1,5 @@
+2018/07/26-20:39:08.224 7817 Reusing MANIFEST /home/kou2n/.config/chromium/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/07/26-20:39:08.224 7817 Recovering log #93
+2018/07/26-20:39:08.232 7817 Level-0 table #95: started
+2018/07/26-20:39:08.253 7817 Level-0 table #95: 2735825 bytes OK
+2018/07/26-20:39:08.256 7817 Delete type=0 #93
